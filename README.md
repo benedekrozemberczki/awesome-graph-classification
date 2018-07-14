@@ -9,7 +9,7 @@ The task is to learn features and representations of graphs from a graph databas
 <img src="atlas.png" width="480">
 
 # Paper References with the implementation(s)
-## Factorization machines
+## (Implicit) Factorization machines
 
 - **Graph2vec (MLGWorkshop 2017)**
   - graph2vec: Learning Distributed Representations of Graphs
@@ -28,9 +28,13 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)  
   
- ## Spectral Methods
+## Spectral Methods
  
 - **NetLSD (KDD 2018)**
   - NetLSD: Hearing the Shape of a Graph
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
+  
+ ## Deep Learning
+   
+ ## Kernel Methods
