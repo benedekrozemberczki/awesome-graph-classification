@@ -26,7 +26,13 @@ The task is to learn features and representations of graphs from a graph databas
 - **Deep Graph Kernels (KDD 2015)**
   - Deep Graph Kernels
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
-  - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)  
+  - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
+  
+- **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
+  - Matching Node Embeddings for Graph Similarity
+  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
+  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
+
   
 ## Spectral Methods
  
