@@ -42,5 +42,10 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   
  ## Deep Learning
+ 
+ - **Graph Classification with 2D Convolutional Neural Networks**
+  - Graph Classification with 2D Convolutional Neural Networks
+  - [[paper]](https://arxiv.org/abs/1708.02218)
+  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
    
  ## Kernel Methods
