@@ -47,5 +47,10 @@ The task is to learn features and representations of graphs from a graph databas
   - Graph Classification with 2D Convolutional Neural Networks
   - [[paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
-   
+  
+ 
+- **Graph Classification Using Structural Attention (KDD 2018)**
+  - Graph Classification Using Structural Attention
+  - [[paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
+  
  ## Kernel Methods
