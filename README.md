@@ -9,6 +9,7 @@ The task is to learn features and representations of graphs from a graph databas
 <img src="atlas.png" width="480">
 
 # Paper References with the implementation(s)
+## Factorization machine(s)
 - **Graph2vec**
   - graph2vec: Learning Distributed Representations of Graphs
   - [[paper]](https://arxiv.org/abs/1707.05005)
@@ -20,4 +21,3 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
-  
