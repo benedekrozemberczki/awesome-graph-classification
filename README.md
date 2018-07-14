@@ -23,9 +23,14 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
   
+- **Deep Graph Kernels (KDD 2015)**
+  - Deep Graph Kernels
+  - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
+  - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)  
+  
  ## Spectral Methods
  
-- **NetLSD (KDD2018)**
+- **NetLSD (KDD 2018)**
   - NetLSD: Hearing the Shape of a Graph
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
