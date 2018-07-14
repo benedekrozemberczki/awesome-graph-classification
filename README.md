@@ -25,7 +25,7 @@ The task is to learn features and representations of graphs from a graph databas
   
  ## Spectral Methods
  
- - **NetLSD (KDD2018)**
+- **NetLSD (KDD2018)**
   - NetLSD: Hearing the Shape of a Graph
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
