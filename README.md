@@ -17,7 +17,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
-- **Subgraph2vec**
+- **Subgraph2vec (MLGWorkshop 2016)**
   - subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs
   - [[paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
