@@ -9,7 +9,7 @@ The task is to learn features and representations of graphs from a graph databas
 <img src="atlas.png" width="480">
 
 # Paper References with the implementation(s)
-## Factorization machine(s)
+## Factorization machines
 - **Graph2vec**
   - graph2vec: Learning Distributed Representations of Graphs
   - [[paper]](https://arxiv.org/abs/1707.05005)
