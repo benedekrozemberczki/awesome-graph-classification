@@ -64,7 +64,7 @@ The task is to learn features and representations of graphs from a graph databas
   
  ## Kernel Methods
  
- - **Global Weisfeiler-Lehman Graph Kernels (2017)**
+- **Global Weisfeiler-Lehman Graph Kernels (2017)**
   - Global Weisfeiler-Lehman Graph Kernels
   - [[paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
