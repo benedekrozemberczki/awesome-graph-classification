@@ -48,11 +48,15 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
   
+- **Kernel Graph Convolutional Neural Networks (NIPS 2015)**
+  - Kernel Graph Convolutional Neural Networks
+  - [[paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+  
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
   - Convolutional Networks on Graphs for Learning Molecular Fingerprints
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
-  
  
 - **Graph Classification Using Structural Attention (KDD 2018)**
   - Graph Classification Using Structural Attention
