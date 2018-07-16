@@ -107,3 +107,8 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[python Reference]](https://github.com/jajupmochi/py-graph)
   
+- **Random Walk Kernels (NIPS 2006)**
+  - Fast Computation of Graph Kernels
+  - [[paper]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/VisBorSch06.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
