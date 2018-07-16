@@ -79,8 +79,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/pdf/1606.01141.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
   
-  - **Shortest-Path Kernels on Graphs (ICDM 2005)**
+- **Shortest-Path Kernels on Graphs (ICDM 2005)**
   - Shortest-Path Kernels on Graphs
   - [[paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
+  
+  
+- **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
   
