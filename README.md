@@ -57,6 +57,11 @@ The task is to learn features and representations of graphs from a graph databas
   - Convolutional Networks on Graphs for Learning Molecular Fingerprints
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
+  
+  - **Deep Learning with Topological Signatures (NIPS 2017)**
+  - Deep Learning with Topological Signatures
+  - [[paper]](https://arxiv.org/abs/1707.04041)
+  - [[Python Reference]](https://github.com/c-hofer/nips2017)
  
 - **Graph Classification Using Structural Attention (KDD 2018)**
   - Graph Classification Using Structural Attention
