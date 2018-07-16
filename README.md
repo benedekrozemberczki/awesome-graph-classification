@@ -119,10 +119,13 @@ The task is to learn features and representations of graphs from a graph databas
   - [[python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
 
-
 - **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
   - Weisfeiler-Lehman Graph Kernels
   - [[paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
   - [[python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
 
+- **Halted Random Walk Kernels (NIPS 2015)**
+  - Halting in Random Walk Kernels
+  - [[paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
