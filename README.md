@@ -111,4 +111,18 @@ The task is to learn features and representations of graphs from a graph databas
   - Fast Computation of Graph Kernels
   - [[paper]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/VisBorSch06.pdf)
   - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+  
+- **Weisfeiler-Lehman Subtree Kernels(NIPS 2009)**
+  - Fast subtree kernels on graphs
+  - [[paper]](http://papers.nips.cc/paper/3813-fast-subtree-kernels-on-graphs.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
+
+
+- **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
+  - Weisfeiler-Lehman Graph Kernels
+  - [[paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
+
