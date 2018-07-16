@@ -58,7 +58,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
   
-  - **Deep Learning with Topological Signatures (NIPS 2017)**
+- **Deep Learning with Topological Signatures (NIPS 2017)**
   - Deep Learning with Topological Signatures
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
@@ -73,3 +73,8 @@ The task is to learn features and representations of graphs from a graph databas
   - Global Weisfeiler-Lehman Graph Kernels
   - [[paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
+  
+- **On Valid Optimal Assignment Kernels and Applications to Graph Classification (2016)**
+  - On Valid Optimal Assignment Kernels and Applications to Graph Classification
+  - [[paper]](https://arxiv.org/pdf/1606.01141.pdf)
+  - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
