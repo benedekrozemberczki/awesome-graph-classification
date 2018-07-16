@@ -90,3 +90,9 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
   - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
   - [[python Reference]](https://github.com/fabriziocosta/EDeN)
+  
+  
+- **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
+  - Cyclic Pattern Kernels For Predictive Graph Mining
+  - [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.6158&rep=rep1&type=pdf)
+  
