@@ -95,4 +95,15 @@ The task is to learn features and representations of graphs from a graph databas
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
   - Cyclic Pattern Kernels For Predictive Graph Mining
   - [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.6158&rep=rep1&type=pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  
+- **Extensions of Marginalized Graph Kernels (ICML 2004)**
+  - Extensions of Marginalized Graph Kernels
+  - [[paper]](http://members.cbio.mines-paristech.fr/~jvert/publi/04icml/icmlMod.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  
+- **Marginalized Kernels Between Labeled Graphs (ICML 2003)**
+  - Marginalized Kernels Between Labeled Graphs 
+  - [[paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
   
