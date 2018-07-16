@@ -86,4 +86,7 @@ The task is to learn features and representations of graphs from a graph databas
   
   
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
-  
+  - Fast neighborhood subgraph pairwise distance Kernel
+  - [[paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
+  - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
+  - [[python Reference]](https://github.com/fabriziocosta/EDeN)
