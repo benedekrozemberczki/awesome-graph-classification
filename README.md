@@ -33,7 +33,6 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
   - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
 
-  
 ## Spectral Methods
  
 - **NetLSD (KDD 2018)**
@@ -84,13 +83,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
   
-  
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
   - Fast neighborhood subgraph pairwise distance Kernel
   - [[paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
   - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
   - [[python Reference]](https://github.com/fabriziocosta/EDeN)
-  
   
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
   - Cyclic Pattern Kernels For Predictive Graph Mining
@@ -128,4 +125,9 @@ The task is to learn features and representations of graphs from a graph databas
 - **Halted Random Walk Kernels (NIPS 2015)**
   - Halting in Random Walk Kernels
   - [[paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
+  
+- **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
+  - The Multiscale Laplacian Graph Kernel 
+  - [[paper]](https://arxiv.org/abs/1603.06186)
+  - [[C++ Reference]](https://github.com/horacepan/MLGkernel)  
