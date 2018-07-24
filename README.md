@@ -66,6 +66,12 @@ The task is to learn features and representations of graphs from a graph databas
   - Graph Classification Using Structural Attention
   - [[paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
   
+- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
+  - An End-to-End Deep Learning Architecture for Graph Classification 
+  - [[paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
+  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)  
+  
  ## Kernel Methods
  
 - **Global Weisfeiler-Lehman Graph Kernels (2017)**
@@ -130,4 +136,6 @@ The task is to learn features and representations of graphs from a graph databas
 - **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
   - The Multiscale Laplacian Graph Kernel 
   - [[paper]](https://arxiv.org/abs/1603.06186)
-  - [[C++ Reference]](https://github.com/horacepan/MLGkernel)  
+  - [[C++ Reference]](https://github.com/horacepan/MLGkernel) 
+  
+  
