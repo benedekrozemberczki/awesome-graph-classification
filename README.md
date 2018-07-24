@@ -70,7 +70,12 @@ The task is to learn features and representations of graphs from a graph databas
   - An End-to-End Deep Learning Architecture for Graph Classification 
   - [[paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
-  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)  
+  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  
+- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
+  - Deriving Neural Architectures from Sequence and Graph Kernels
+  - [[paper]](https://arxiv.org/abs/1705.09037)
+  - [[Python Reference]](https://github.com/taolei87/icml17_knn)
   
  ## Kernel Methods
  
@@ -142,3 +147,5 @@ The task is to learn features and representations of graphs from a graph databas
   - Faster Kernels for Graphs with Continuous Attributes
   - [[paper]](https://arxiv.org/abs/1610.00064)
   - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
+  
+  
