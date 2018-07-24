@@ -138,4 +138,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1603.06186)
   - [[C++ Reference]](https://github.com/horacepan/MLGkernel) 
   
-  
+- **Faster Kernels for Graphs with Continuous Attributes. (ICDM 2016)**
+  - Faster Kernels for Graphs with Continuous Attributes.
+  - [[paper]](https://arxiv.org/abs/1610.00064)
+  - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
