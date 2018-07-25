@@ -152,3 +152,9 @@ The task is to learn features and representations of graphs from a graph databas
   - A Linear-time Graph Kernel
   - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
   - [[python Reference]](https://github.com/hgascon/adagio)
+  
+- **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
+  - A Linear-time Graph Kernel
+  - [[paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
+  - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
+
