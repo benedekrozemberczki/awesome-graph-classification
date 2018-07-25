@@ -12,24 +12,24 @@ The task is to learn features and representations of graphs from a graph databas
 ## (Implicit) Factorization machines
 
 - **Graph2vec (MLGWorkshop 2017)**
-  - graph2vec: Learning Distributed Representations of Graphs
+  - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
   - [[paper]](https://arxiv.org/abs/1707.05005)
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
 - **Subgraph2vec (MLGWorkshop 2016)**
-  - subgraph2vec: Learning Distributed Representations of Rooted Sub-graphs from Large Graphs
+  - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
   - [[paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
   
 - **Deep Graph Kernels (KDD 2015)**
-  - Deep Graph Kernels
+  - Yanardag, Pinar and Vishwanathan, SVN
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
   
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
-  - Matching Node Embeddings for Graph Similarity
+  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
   - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
   - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
 
