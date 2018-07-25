@@ -72,10 +72,10 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
   
-- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
-  - Deriving Neural Architectures from Sequence and Graph Kernels
-  - [[paper]](https://arxiv.org/abs/1705.09037)
-  - [[Python Reference]](https://github.com/taolei87/icml17_knn)
+- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
+  - Deep Topology Classification: A New Approach For Massive Graph Classification
+  - [[paper]](https://ieeexplore.ieee.org/document/7840988/)
+  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
   
  ## Kernel Methods
  
