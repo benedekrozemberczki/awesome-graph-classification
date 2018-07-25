@@ -148,4 +148,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1610.00064)
   - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
   
-  
+- **A Linear-time Graph Kernel (ICDM 2009)**
+  - A Linear-time Graph Kernel
+  - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
+  - [[python Reference]](https://github.com/hgascon/adagio)
