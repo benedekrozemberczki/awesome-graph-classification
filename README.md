@@ -157,3 +157,8 @@ The task is to learn features and representations of graphs from a graph databas
   - Bonner, Stephen and Brennan, John and Theodoropoulos, G and Kureshi, I and McGough, AS
   - [[paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
   - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
+ 
+- **Message Passing Graph Kernels (2018)**
+  - Giannis Nikolentzos, Michalis Vazirgiannis
+  - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
+  - [[python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
