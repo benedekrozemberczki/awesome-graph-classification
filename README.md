@@ -87,10 +87,10 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1802.04944v1)
   - [[Python Reference]](https://github.com/Luckick/EAGCN)
   
-- **Edge Attention-based Multi-Relational Graph Convolutional Networks**
-  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
-  - [[paper]](https://arxiv.org/abs/1802.04944v1)
-  - [[Python Reference]](https://github.com/Luckick/EAGCN)
+- **Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI-ECAI 2018)**
+  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+  - [[paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
+  - [[Python Reference]](https://github.com/tuxchow/ccm)
   
  ## Kernel Methods
  
