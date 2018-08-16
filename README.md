@@ -82,7 +82,15 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
   
+- **Edge Attention-based Multi-Relational Graph Convolutional Networks**
+  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
+  - [[paper]](https://arxiv.org/abs/1802.04944v1)
+  - [[Python Reference]](https://github.com/Luckick/EAGCN)
   
+- **Edge Attention-based Multi-Relational Graph Convolutional Networks**
+  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
+  - [[paper]](https://arxiv.org/abs/1802.04944v1)
+  - [[Python Reference]](https://github.com/Luckick/EAGCN)
   
  ## Kernel Methods
  
