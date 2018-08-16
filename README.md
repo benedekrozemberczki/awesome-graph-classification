@@ -11,6 +11,11 @@ The task is to learn features and representations of graphs from a graph databas
 # Paper References with the implementation(s)
 ## (Implicit) Factorization machines
 
+- **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
+  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
+  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
+  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
+
 - **Graph2vec (MLGWorkshop 2017)**
   - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
   - [[paper]](https://arxiv.org/abs/1707.05005)
@@ -27,11 +32,6 @@ The task is to learn features and representations of graphs from a graph databas
   - Yanardag, Pinar and Vishwanathan, SVN
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
-  
-- **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
-  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
-  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
-  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
 
 ## Spectral Methods
  
