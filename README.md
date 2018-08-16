@@ -77,12 +77,12 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://ieeexplore.ieee.org/document/7840988/)
   - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
 
-- **Deeply learning molecular structure-property relationships using graph attention neural network**
+- **Deeply learning molecular structure-property relationships using graph attention neural network (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
   
-- **Edge Attention-based Multi-Relational Graph Convolutional Networks**
+- **Edge Attention-based Multi-Relational Graph Convolutional Networks (2018)**
   - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
   - [[paper]](https://arxiv.org/abs/1802.04944v1)
   - [[Python Reference]](https://github.com/Luckick/EAGCN)
