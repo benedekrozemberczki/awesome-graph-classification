@@ -177,3 +177,12 @@ The task is to learn features and representations of graphs from a graph databas
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
   - [[python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
+  
+- **Propagation kernels: efficient graph kernels from propagated information (Machine Learning 2015)**
+  - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
+  - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
+  - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)  
+  
+- **Scalable kernels for graphs with continuous attributes (NIPS 2013)**
+  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
+  - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
