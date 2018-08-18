@@ -183,6 +183,6 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)  
   
-- **Scalable kernels for graphs with continuous attributes (NIPS 2013)**
+- **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
   - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
   - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
