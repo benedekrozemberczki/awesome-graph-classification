@@ -167,6 +167,15 @@ The task is to learn features and representations of graphs from a graph databas
   - Hido, Shohei and Kashima, Hisashi
   - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
   - [[python Reference]](https://github.com/hgascon/adagio)
+
+- **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
+  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
+  - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
+
+- **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2015)**
+  - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
+  - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
+  - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)
   
 - **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
   - Bonner, Stephen and Brennan, John and Theodoropoulos, G and Kureshi, I and McGough, AS
@@ -177,12 +186,3 @@ The task is to learn features and representations of graphs from a graph databas
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
   - [[python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
-  
-- **Propagation kernels: efficient graph kernels from propagated information (Machine Learning 2015)**
-  - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
-  - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
-  - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)  
-  
-- **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
-  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
-  - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
