@@ -11,16 +11,10 @@ The task is to learn features and representations of graphs from a graph databas
 # Paper References with the implementation(s)
 ## (Implicit) Factorization machines
 
-
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
   - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
   - [[Python Reference]](https://github.com/nd7141/AWE)
-
-- **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
-  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
-  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
-  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
 
 - **Graph2vec (MLGWorkshop 2017)**
   - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
@@ -100,6 +94,16 @@ The task is to learn features and representations of graphs from a graph databas
   
  ## Kernel Methods
  
+- **Message Passing Graph Kernels (2018)**
+  - Giannis Nikolentzos, Michalis Vazirgiannis
+  - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
+  - [[python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
+
+- **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
+  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
+  - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
+  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
+  
 - **Global Weisfeiler-Lehman Graph Kernels (2017)**
   - Morris, Christopher and Kersting, Kristian and Mutzel, Petra
   - [[paper]](https://arxiv.org/pdf/1703.02379.pdf)
@@ -110,16 +114,73 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/pdf/1606.01141.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
   
-- **Shortest-Path Kernels on Graphs (ICDM 2005)**
-  - Borgwardt, Karsten M and Kriegel, Hans-Peter
-  - [[paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
-  - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
+- **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
+  - Bonner, Stephen and Brennan, John and Theodoropoulos, G and Kureshi, I and McGough, AS
+  - [[paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
+  - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
+
+- **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
+  - Kondor, Risi and Pan, Horace
+  - [[paper]](https://arxiv.org/abs/1603.06186)
+  - [[C++ Reference]](https://github.com/horacepan/MLGkernel) 
   
+- **Faster Kernels for Graphs with Continuous Attributes (ICDM 2016)**
+  - Morris, Christopher and Kriege, Nils M and Kersting, Kristian and Mutzel, Petra
+  - [[paper]](https://arxiv.org/abs/1610.00064)
+  - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
+  
+- **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2015)**
+  - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
+  - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
+  - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)
+  
+- **Halting Random Walk Kernels (NIPS 2015)**
+  - Sugiyama, Mahito and Borgwardt, Karsten
+  - [[paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
+
+- **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
+  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
+  - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
+  
+- **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
+  - Nils Kriege and Petra Mutzel
+  - [[paper]](https://arxiv.org/abs/1206.6483)
+  - [[python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)  
+  
+- **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
+  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
+  - [[paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
+
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
   - Fast neighborhood subgraph pairwise distance Kernel
   - [[paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
   - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
   - [[python Reference]](https://github.com/fabriziocosta/EDeN)
+
+- **A Linear-time Graph Kernel (ICDM 2009)**
+  - Hido, Shohei and Kashima, Hisashi
+  - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
+  - [[python Reference]](https://github.com/hgascon/adagio)
+  
+- **Weisfeiler-Lehman Subtree Kernels (NIPS 2009)**
+  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
+  - [[paper]](http://papers.nips.cc/paper/3813-fast-subtree-kernels-on-graphs.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
+  
+- **Fast Computation of Graph Kernels (NIPS 2006)**
+  - Borgwardt, Karsten M and Schraudolph, Nicol N and Vishwanathan, SVN
+  - [[paper]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/VisBorSch06.pdf)
+  - [[python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+  
+- **Shortest-Path Kernels on Graphs (ICDM 2005)**
+  - Borgwardt, Karsten M and Kriegel, Hans-Peter
+  - [[paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
+  - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
   
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
   - Horvath, Tamas and Gartner, Thomas and Wrobel, Stefan
@@ -135,65 +196,3 @@ The task is to learn features and representations of graphs from a graph databas
   - Kashima, Hisashi and Tsuda, Koji and Inokuchi, Akihiro
   - [[paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[python Reference]](https://github.com/jajupmochi/py-graph)
-  
-- **Fast Computation of Graph Kernels (NIPS 2006)**
-  - Borgwardt, Karsten M and Schraudolph, Nicol N and Vishwanathan, SVN
-  - [[paper]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/VisBorSch06.pdf)
-  - [[python Reference]](https://github.com/jajupmochi/py-graph)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
-  
-- **Weisfeiler-Lehman Subtree Kernels (NIPS 2009)**
-  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
-  - [[paper]](http://papers.nips.cc/paper/3813-fast-subtree-kernels-on-graphs.pdf)
-  - [[python Reference]](https://github.com/jajupmochi/py-graph)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
-
-- **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
-  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
-  - [[paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
-  - [[python Reference]](https://github.com/jajupmochi/py-graph)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
-
-- **Halting Random Walk Kernels (NIPS 2015)**
-  - Sugiyama, Mahito and Borgwardt, Karsten
-  - [[paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
-  
-- **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
-  - Kondor, Risi and Pan, Horace
-  - [[paper]](https://arxiv.org/abs/1603.06186)
-  - [[C++ Reference]](https://github.com/horacepan/MLGkernel) 
-  
-- **Faster Kernels for Graphs with Continuous Attributes (ICDM 2016)**
-  - Morris, Christopher and Kriege, Nils M and Kersting, Kristian and Mutzel, Petra
-  - [[paper]](https://arxiv.org/abs/1610.00064)
-  - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
-  
-- **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
-  - Nils Kriege and Petra Mutzel
-  - [[paper]](https://arxiv.org/abs/1206.6483)
-  - [[python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)  
-  
-- **A Linear-time Graph Kernel (ICDM 2009)**
-  - Hido, Shohei and Kashima, Hisashi
-  - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
-  - [[python Reference]](https://github.com/hgascon/adagio)
-
-- **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
-  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
-  - [[paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
-
-- **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2015)**
-  - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
-  - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
-  - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)
-  
-- **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
-  - Bonner, Stephen and Brennan, John and Theodoropoulos, G and Kureshi, I and McGough, AS
-  - [[paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
-  - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
- 
-- **Message Passing Graph Kernels (2018)**
-  - Giannis Nikolentzos, Michalis Vazirgiannis
-  - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
-  - [[python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
