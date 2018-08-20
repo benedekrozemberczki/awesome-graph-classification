@@ -11,6 +11,12 @@ The task is to learn features and representations of graphs from a graph databas
 # Paper References with the implementation(s)
 ## (Implicit) Factorization machines
 
+
+- **Anonymous Walk Embeddings (ICML 2018)**
+  - Sergey Ivanov, Evgeny Burnaev
+  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Python Reference]](https://github.com/nd7141/AWE)
+
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
   - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
   - [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
