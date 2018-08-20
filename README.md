@@ -42,41 +42,6 @@ The task is to learn features and representations of graphs from a graph databas
   
  ## Deep Learning
  
-- **Graph Classification with 2D Convolutional Neural Networks (2017)**
-  - Tixier, Antoine J-P and Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
-  - [[paper]](https://arxiv.org/abs/1708.02218)
-  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
-  
-- **Kernel Graph Convolutional Neural Networks (2017)**
-  - Nikolentzos, Giannis and Meladianos, Polykarpos and Tixier, Antoine Jean-Pierre and Skianis, Konstantinos and Vazirgiannis, Michalis
-  - [[paper]](https://arxiv.org/pdf/1710.10689.pdf)
-  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
-  
-- **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
-  - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
-  - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
-  - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
-  
-- **Deep Learning with Topological Signatures (NIPS 2017)**
-  - DHofer, Christoph and Kwitt, Roland and Niethammer, Marc and Uhl, Andreas
-  - [[paper]](https://arxiv.org/abs/1707.04041)
-  - [[Python Reference]](https://github.com/c-hofer/nips2017)
- 
-- **Graph Classification Using Structural Attention (KDD 2018)**
-  - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
-  - [[paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
-  
-- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
-  - Zhang, Muhan and Cui, Zhicheng and Neumann, Marion and Chen, Yixin
-  - [[paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
-  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
-  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
-  
-- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
-  - Bonner, Stephen and Brennan, John and Theodoropoulos, Georgios and McGough, S and Kureshi, I
-  - [[paper]](https://ieeexplore.ieee.org/document/7840988/)
-  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
-
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
@@ -91,6 +56,41 @@ The task is to learn features and representations of graphs from a graph databas
   - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
   - [[paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
   - [[Python Reference]](https://github.com/tuxchow/ccm)
+  
+- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
+  - Zhang, Muhan and Cui, Zhicheng and Neumann, Marion and Chen, Yixin
+  - [[paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
+  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  
+- **Graph Classification Using Structural Attention (KDD 2018)**
+  - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
+  - [[paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
+  
+- **Deep Learning with Topological Signatures (NIPS 2017)**
+  - DHofer, Christoph and Kwitt, Roland and Niethammer, Marc and Uhl, Andreas
+  - [[paper]](https://arxiv.org/abs/1707.04041)
+  - [[Python Reference]](https://github.com/c-hofer/nips2017)
+  
+- **Graph Classification with 2D Convolutional Neural Networks (2017)**
+  - Tixier, Antoine J-P and Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
+  - [[paper]](https://arxiv.org/abs/1708.02218)
+  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
+  
+- **Kernel Graph Convolutional Neural Networks (2017)**
+  - Nikolentzos, Giannis and Meladianos, Polykarpos and Tixier, Antoine Jean-Pierre and Skianis, Konstantinos and Vazirgiannis, Michalis
+  - [[paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+  
+- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
+  - Bonner, Stephen and Brennan, John and Theodoropoulos, Georgios and McGough, S and Kureshi, I
+  - [[paper]](https://ieeexplore.ieee.org/document/7840988/)
+  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
+  
+- **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
+  - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
+  - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
+  - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
   
  ## Kernel Methods
  
