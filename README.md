@@ -163,6 +163,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1610.00064)
   - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
   
+- **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
+  - Nils Kriege and Petra Mutzel
+  - [[paper]](https://arxiv.org/abs/1206.6483)
+  - [[python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)  
+  
 - **A Linear-time Graph Kernel (ICDM 2009)**
   - Hido, Shohei and Kashima, Hisashi
   - [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
