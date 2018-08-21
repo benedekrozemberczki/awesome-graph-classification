@@ -129,7 +129,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1610.00064)
   - [[python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
   
-- **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2015)**
+- **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2016)**
   - Neumann, Marion and Garnett, Roman and Bauckhage, Christian and Kersting, Kristian
   - [[paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[matlab Reference]](https://github.com/marionmari/propagation_kernels)
