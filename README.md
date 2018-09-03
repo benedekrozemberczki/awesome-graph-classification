@@ -33,12 +33,22 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
-## Spectral Methods
+## Spectral and Statistical  Fingerprints
  
 - **NetLSD (KDD 2018)**
   - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
+  
+- **NetLSD (KDD 2018)**
+  - Tsitsin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
+  - [[paper]](https://arxiv.org/abs/1805.10712)
+  - [[Python Reference]](https://github.com/xgfs/NetLSD)
+  
+- **Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs (NIPS 2017)**
+  -  Saurabh Verma and Zhi-Li Zhang
+  - [[paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
+  - [[Python Reference]](https://github.com/vermaMachineLearning/FGSD)
   
  ## Deep Learning
  
