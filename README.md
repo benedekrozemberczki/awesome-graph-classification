@@ -158,6 +158,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1206.6483)
   - [[python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)  
   
+- **Nested Subtree Hash Kernels for Large-Scale Graph Classification over Streams (ICDM 2012)**
+  - Bin Li, Xingquan Zhu, Lianhua Chi, Chengqi Zhang
+  - [[paper]](https://ieeexplore.ieee.org/document/6413884/)
+  - [[python Reference]](https://github.com/benedekrozemberczki/NestedSubtreeHash)  
+  
 - **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
   - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
   - [[paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
