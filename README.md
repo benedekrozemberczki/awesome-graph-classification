@@ -6,7 +6,7 @@ A collection of important graph embedding, classification and representation lea
 
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
 <p align="center">
-  <img width="460" src="diff2vec.jpeg">
+  <img width="460" src="atlas.png">
 </p>
 
 # Paper References with the implementation(s)
