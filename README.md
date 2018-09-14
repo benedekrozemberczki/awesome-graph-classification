@@ -5,8 +5,9 @@
 A collection of important graph embedding, classification and representation learning papers with implementations.
 
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
-
-<img src="atlas.png" width="480">
+<p align="center">
+  <img width="460" src="diff2vec.jpeg">
+</p>
 
 # Paper References with the implementation(s)
 ## (Implicit) Factorization machines
