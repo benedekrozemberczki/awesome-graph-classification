@@ -88,6 +88,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
   
+- **Semi-supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing(2017)**
+  - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
+  - [[paper]](https://arxiv.org/pdf/1711.10168.pdf)
+  - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
+  
 - **Kernel Graph Convolutional Neural Networks (2017)**
   - Nikolentzos, Giannis and Meladianos, Polykarpos and Tixier, Antoine Jean-Pierre and Skianis, Konstantinos and Vazirgiannis, Michalis
   - [[paper]](https://arxiv.org/pdf/1710.10689.pdf)
