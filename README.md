@@ -6,7 +6,7 @@ A collection of important graph embedding, classification and representation lea
 
 ##### Table of Contents  
 - [Factorization Machines.](#factorization)
-- [Spectral methods and Statisitical Finger Prints.](#spectral) 
+- [Spectral and Statisitical Finger Prints.](#spectral) 
 - [Deep Learning.](#dl) 
 - [Kernel Methods.](#kernel) 
 
