@@ -4,12 +4,19 @@
 
 A collection of important graph embedding, classification and representation learning papers with implementations.
 
+##### Table of Contents  
+[Factorization Machines.](#factorization)  
+[Spectral methods and Statisitical Finger Prints.](#spectral) 
+[Deep Learning.](#dl) 
+[Kernel Methods.](#kernel) 
+
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
 <p align="center">
   <img width="460" src="atlas.png">
 </p>
 
 # Paper References with the implementation(s)
+<a name="factorization"/>
 ## (Implicit) Factorization machines
 
 - **Anonymous Walk Embeddings (ICML 2018)**
@@ -34,6 +41,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
+<a name="spectral"/>
 ## Spectral and Statistical Fingerprints
  
 - **NetLSD (KDD 2018)**
@@ -50,7 +58,7 @@ The task is to learn features and representations of graphs from a graph databas
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos
   - [[paper]](https://arxiv.org/abs/1209.2684)
   - [[Python]](https://github.com/kristyspatel/Netsimile)
-  
+ <a name="dl"/> 
  ## Deep Learning
  
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
@@ -112,7 +120,7 @@ The task is to learn features and representations of graphs from a graph databas
   - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
-  
+ <a name="kernel"/> 
  ## Kernel Methods
  
 - **Message Passing Graph Kernels (2018)**
