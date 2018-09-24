@@ -17,6 +17,7 @@ The task is to learn features and representations of graphs from a graph databas
 
 # Paper References with the implementation(s)
 <a name="factorization"/>
+
 ## (Implicit) Factorization machines
 
 - **Anonymous Walk Embeddings (ICML 2018)**
