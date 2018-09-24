@@ -5,10 +5,10 @@
 A collection of important graph embedding, classification and representation learning papers with implementations.
 
 ##### Table of Contents  
-[Factorization Machines.](#factorization)  
-[Spectral methods and Statisitical Finger Prints.](#spectral) 
-[Deep Learning.](#dl) 
-[Kernel Methods.](#kernel) 
+- [Factorization Machines.](#factorization)
+- [Spectral methods and Statisitical Finger Prints.](#spectral) 
+- [Deep Learning.](#dl) 
+- [Kernel Methods.](#kernel) 
 
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
 <p align="center">
