@@ -78,6 +78,11 @@ The task is to learn features and representations of graphs from a graph databas
   - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
   - [[paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
   
+- **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
+  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein, Emmanueal Müller
+  -[[paper]](https://arxiv.org/abs/1807.02839)
+  -[[Python Reference]](http://mott.in/publications/others/sgr/)
+  
 - **Deep Learning with Topological Signatures (NIPS 2017)**
   - DHofer, Christoph and Kwitt, Roland and Niethammer, Marc and Uhl, Andreas
   - [[paper]](https://arxiv.org/abs/1707.04041)
