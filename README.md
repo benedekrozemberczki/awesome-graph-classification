@@ -45,8 +45,7 @@ The task is to learn features and representations of graphs from a graph databas
 <a name="spectral"/>
 
 ## Spectral and Statistical Fingerprints
- 
-- **NetLSD (KDD 2018)**
+ - **NetLSD (KDD 2018)**
   - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
@@ -63,7 +62,6 @@ The task is to learn features and representations of graphs from a graph databas
  <a name="dl"/> 
  
  ## Deep Learning
- 
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
