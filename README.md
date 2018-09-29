@@ -60,13 +60,12 @@ The task is to learn features and representations of graphs from a graph databas
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos
   - [[paper]](https://arxiv.org/abs/1209.2684)
-  - [[Python]](https://github.com/kristyspatel/Netsimile)
-  
+  - [[Python]](https://github.com/kristyspatel/Netsimile) 
  <a name="dl"/>
  
  ## Deep Learning
  
-- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
+- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
@@ -125,7 +124,6 @@ The task is to learn features and representations of graphs from a graph databas
   - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
-  
  <a name="kernel"/> 
  
  ## Kernel Methods
