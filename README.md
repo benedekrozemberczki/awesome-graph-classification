@@ -18,6 +18,7 @@ The task is to learn features and representations of graphs from a graph databas
 # Paper References with the implementation(s)
 
 <a name="factorization"/>
+
 ## (Implicit) Factorization machines
 
 - **Anonymous Walk Embeddings (ICML 2018)**
@@ -43,6 +44,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
 <a name="spectral"/>
+
 ## Spectral and Statistical Fingerprints
 
  - **NetLSD (KDD 2018)**
@@ -60,7 +62,8 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1209.2684)
   - [[Python]](https://github.com/kristyspatel/Netsimile)
   
- <a name="dl"/> 
+ <a name="dl"/>
+ 
  ## Deep Learning
  
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
@@ -124,6 +127,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
   
  <a name="kernel"/> 
+ 
  ## Kernel Methods
  
 - **Message Passing Graph Kernels (2018)**
