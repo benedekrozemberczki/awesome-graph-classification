@@ -4,12 +4,6 @@
 
 A collection of important graph embedding, classification and representation learning papers with implementations.
 
-##### Table of Contents  
-- [Factorization Machines.](#factorization)
-- [Spectral and Statisitical Finger Prints.](#spectral) 
-- [Deep Learning.](#dl) 
-- [Kernel Methods.](#kernel) 
-
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
 <p align="center">
   <img width="460" src="atlas.png">
@@ -42,7 +36,6 @@ The task is to learn features and representations of graphs from a graph databas
   
 
 ## Spectral and Statistical Fingerprints
-<a name="spectral"/>
 - **NetLSD (KDD 2018)**
   - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
   - [[paper]](https://arxiv.org/abs/1805.10712)
@@ -59,8 +52,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
-<a name="dl"/>
-- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention (2018)**
+- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network(2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
@@ -121,7 +113,6 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
  
 ## Kernel Methods
-<a name="kernel"/> 
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
