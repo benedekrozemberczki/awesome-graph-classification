@@ -17,10 +17,8 @@ The task is to learn features and representations of graphs from a graph databas
 
 # Paper References with the implementation(s)
 
-<a name="factorization"/>
-
 ## (Implicit) Factorization machines
-
+<a name="factorization"/>
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
   - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
@@ -42,12 +40,11 @@ The task is to learn features and representations of graphs from a graph databas
   - Yanardag, Pinar and Vishwanathan, SVN
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
-
-<a name="spectral"/>
+  
 
 ## Spectral and Statistical Fingerprints
-
- - **NetLSD (KDD 2018)**
+<a name="spectral"/>
+- **NetLSD (KDD 2018)**
   - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
   - [[paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
@@ -61,10 +58,9 @@ The task is to learn features and representations of graphs from a graph databas
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos
   - [[paper]](https://arxiv.org/abs/1209.2684)
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
- <a name="dl"/>
  
- ## Deep Learning
- 
+## Deep Learning
+<a name="dl"/>
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
@@ -124,10 +120,9 @@ The task is to learn features and representations of graphs from a graph databas
   - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
- <a name="kernel"/> 
  
- ## Kernel Methods
- 
+## Kernel Methods
+<a name="kernel"/> 
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
