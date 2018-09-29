@@ -19,9 +19,9 @@ The task is to learn features and representations of graphs from a graph databas
 
 ## (Implicit) Factorization machines <a name="factorization"/>
 - **Anonymous Walk Embeddings (ICML 2018)**
-  - Sergey Ivanov, Evgeny Burnaev
-  - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
-  - [[Python Reference]](https://github.com/nd7141/AWE)
+- Sergey Ivanov, Evgeny Burnaev
+- [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
+- [[Python Reference]](https://github.com/nd7141/AWE)
 
 - **Graph2vec (MLGWorkshop 2017)**
   - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
