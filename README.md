@@ -52,7 +52,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
-- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network(2018)**
+- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
   - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
   - [[paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
