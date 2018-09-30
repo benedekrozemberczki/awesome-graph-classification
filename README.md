@@ -11,7 +11,7 @@ The task is to learn features and representations of graphs from a graph databas
 
 # Paper References with the implementation(s)
 
-## (Implicit) Factorization machines
+## (Implicit) Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
   - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
@@ -33,7 +33,6 @@ The task is to learn features and representations of graphs from a graph databas
   - Yanardag, Pinar and Vishwanathan, SVN
   - [[paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
-  
 
 ## Spectral and Statistical Fingerprints
 - **NetLSD (KDD 2018)**
