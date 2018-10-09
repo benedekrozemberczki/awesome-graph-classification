@@ -96,6 +96,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
+- **Protein Interface Prediction using Graph Convolutional Networks (NIPS 2017)**
+  - Alex Fout, Jonathon Byrd, Basir Shariat and Asa Ben-Hur
+  - [[paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
+  - [[Python Reference]](https://github.com/fouticus/pipgcn)
+  
 - **Graph Classification with 2D Convolutional Neural Networks (2017)**
   - Tixier, Antoine J-P and Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
   - [[paper]](https://arxiv.org/abs/1708.02218)
