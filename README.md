@@ -51,7 +51,12 @@ The task is to learn features and representations of graphs from a graph databas
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
-- **MolGAN: An implicit generative model for small molecular graphs (ICML 2018)**
+- **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NIPS 2018)**
+  - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
+  - [[paper]](https://arxiv.org/abs/1806.02473)
+  - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
+
+- **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
   - Nicola De Cao and Thomas Kipf
   - [[paper]](https://arxiv.org/pdf/1805.11973.pdf)
   - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
