@@ -96,6 +96,11 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
+- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
+  - Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola
+  - [[paper]](https://arxiv.org/abs/1705.09037)
+  - [[Python Reference]](https://github.com/taolei87/icml17_knn)
+  
 - **Protein Interface Prediction using Graph Convolutional Networks (NIPS 2017)**
   - Alex Fout, Jonathon Byrd, Basir Shariat and Asa Ben-Hur
   - [[paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
