@@ -18,7 +18,7 @@ The task is to learn features and representations of graphs from a graph databas
 
 
 
-## (Implicit) Factorization <a name="factorization"/>
+## <a name="factorization"/> (Implicit) Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
   - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
