@@ -16,9 +16,9 @@ The task is to learn features and representations of graphs from a graph databas
 [Deep Learning](#dl)  
 [Graph Kernels](#kernels)  
 
-<a name="factorization"/>
 
-## (Implicit) Factorization
+
+## (Implicit) Factorization <a name="factorization"/>
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
   - [[paper]](https://arxiv.org/pdf/1805.11921.pdf)
