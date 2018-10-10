@@ -13,7 +13,7 @@ The task is to learn features and representations of graphs from a graph databas
 ##### Table of Contents  
 
 1. [Factorization](#factorization)  
-2. [Spectral and Statistical Fingerprints](#Spectral-and-Statistical-Fingerprints)
+2. [Spectral and Statistical Fingerprints](#spectral-and-statistical-fingerprints)
 3. [Deep Learning](#deep-learning)  
 4. [Graph Kernels](#graph-kernels)  
 
