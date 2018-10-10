@@ -14,8 +14,8 @@ The task is to learn features and representations of graphs from a graph databas
 
 1. [Factorization](#factorization)  
 2. [Spectral and Statistical Fingerprints](#prints)
-3. [Deep Learning](#dl)  
-4. [Graph Kernels](#kernels)  
+3. [Deep Learning](#deep-learning)  
+4. [Graph Kernels](#graph-kernels)  
 
 ## Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
@@ -138,7 +138,7 @@ The task is to learn features and representations of graphs from a graph databas
   - [[paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
  
-## Kernel Methods
+## Graph Kernels
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[paper]](https://arxiv.org/pdf/1808.02510.pdf)
