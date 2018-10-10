@@ -11,12 +11,11 @@ The task is to learn features and representations of graphs from a graph databas
 
 # Paper References with the implementation(s)
 ##### Table of Contents  
-[Factorization](#factorization)  
-[Spectral and Statistical Fingerprints](#prints)
-[Deep Learning](#dl)  
-[Graph Kernels](#kernels)  
 
-
+1. [Factorization](#factorization)  
+2. [Spectral and Statistical Fingerprints](#prints)
+3. [Deep Learning](#dl)  
+4. [Graph Kernels](#kernels)  
 
 ## (Implicit) Factorization factorization [](#){name=example}
 - **Anonymous Walk Embeddings (ICML 2018)**
