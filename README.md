@@ -4,6 +4,8 @@
 
 A collection of important graph embedding, classification and representation learning papers with implementations.
 
+A similar collection of [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection/) papers.
+
 The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
 <p align="center">
   <img width="460" src="atlas.png">
