@@ -11,7 +11,6 @@ The task is to learn features and representations of graphs from a graph databas
   <img width="460" src="atlas.png">
 </p>
 
-# Paper References with the implementation(s)
 ##### Table of Contents  
 
 1. [Factorization](#factorization)  
@@ -19,6 +18,7 @@ The task is to learn features and representations of graphs from a graph databas
 3. [Deep Learning](#deep-learning)  
 4. [Graph Kernels](#graph-kernels)  
 
+# Paper References with the implementation(s)
 ## Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov, Evgeny Burnaev
