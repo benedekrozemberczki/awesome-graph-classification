@@ -1,16 +1,14 @@
+# Awesome Graph Embedding
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-<br/>
-<div align="center">
-  <img width="380px" src="./atlas.png">
-</div>
-<br/>
-<div align="center">
-An awesome list about graph embedding, classification and representation learning papers with implementations.
-<br/>
+A collection of graph embedding papers with implementations.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
-<br/>
+A similar collection on [[community detection]](https://github.com/benedekrozemberczki/community-detection) papers with implementations.
+
+<p align="center">
+  <img width="460" src="atlas.png">
+</p>
 
 ##### Table of Contents  
 
