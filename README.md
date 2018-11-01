@@ -4,7 +4,7 @@
 
 A collection of graph embedding papers with implementations.
 
-A similar collection on [[community detection]](https://github.com/benedekrozemberczki/community-detection) papers with implementations.
+A similar collection on [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 <p align="center">
   <img width="460" src="atlas.png">
