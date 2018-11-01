@@ -1,15 +1,16 @@
-# Awesome Graph Embedding And Representation Learning Papers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A collection of important graph embedding, classification and representation learning papers with implementations.
+<br/>
+<div align="center">
+  <img width="380px" src="./atlas.png">
+</div>
+<br/>
+<div align="center">
+An awesome list about graph embedding, classification and representation learning papers with implementations.
+<br/>
 
-A similar collection of [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection/) papers.
-
-The task is to learn features and representations of graphs from a graph database. These are later used for supervised learning.
-<p align="center">
-  <img width="460" src="atlas.png">
-</p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+<br/>
 
 ##### Table of Contents  
 
