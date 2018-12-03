@@ -36,6 +36,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
   
+- **Rdf2vec: Rdf graph embeddings for data mining (ISWC 2016)**
+  - Petar Ristoski and Heiko Paulheim
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30)
+  - [[Python Reference]](https://github.com/airobert/RDF2VecAtWebScale)
+  
 - **Deep Graph Kernels (KDD 2015)**
   - Yanardag, Pinar and Vishwanathan, SVN
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2783417)
