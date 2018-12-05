@@ -123,7 +123,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
   
-- **Semi-supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing(2017)**
+- **Semi-supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
