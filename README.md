@@ -57,6 +57,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
   - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
   
+- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018) **
+  - Zixuan Zhu and Yuhai Zhao
+  - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
+  - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
+  
 - **Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs (NIPS 2017)**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
