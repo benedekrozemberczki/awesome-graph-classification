@@ -98,6 +98,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
   
+- **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
+  - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8545310)
+  - [[Python Reference]](https://github.com/priba/siamese_ged)
+  
 - **Edge Attention-based Multi-Relational Graph Convolutional Networks (2018)**
   - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
   - [[Paper]](https://arxiv.org/abs/1802.04944v1)
