@@ -52,6 +52,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   
+- **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018) **
+  - Nathan de Lara and Edouard Pineau
+  - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
+  - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
+  
 - **Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs (NIPS 2017)**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
@@ -67,6 +72,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1806.02473)
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
+  
+- **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
+  - Davide Bacciu, Federico Errica, Alessio Micheli 
+  - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
+  - [[Python Reference]](https://github.com/diningphil/CGMM)
 
 - **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
   - Nicola De Cao and Thomas Kipf
