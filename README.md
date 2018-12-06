@@ -67,6 +67,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
   - [[Python Reference]](https://github.com/vermaMachineLearning/FGSD)
   
+- **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
+  - Shirui Pan, Jia Wu, Xingquan Zhu, Chengqi Zhang, and Philip Yu
+  - [[Paper]](https://ieeexplore.ieee.org/document/7302040)
+  - [[Java Reference]](https://github.com/shiruipan/MTG)
+  
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos
   - [[Paper]](https://arxiv.org/abs/1209.2684)
