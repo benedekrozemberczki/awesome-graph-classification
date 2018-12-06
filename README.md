@@ -52,12 +52,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   
-- **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018) **
+- **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
   - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
   
-- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018) **
+- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018)**
   - Zixuan Zhu and Yuhai Zhao
   - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
   - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
@@ -77,6 +77,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1806.02473)
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
+  
+- **Hierarchical Graph Representation Learning with Differentiable Pooling (NIPS 2018)**
+  - Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton and Jure Leskovec
+  - [[Paper]](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
+  - [[Python Reference]](https://github.com/rusty1s/pytorch_geometricn)
   
 - **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
   - Davide Bacciu, Federico Errica, Alessio Micheli 
