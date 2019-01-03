@@ -78,6 +78,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
+- **Graph Classification Using Structural Attention (KDD 2018)**
+  - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
+  - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
+  - [[Python Pytorch Reference]](https://github.com/benedekrozemberczki/GAM)
+
 - **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NIPS 2018)**
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1806.02473)
@@ -123,10 +128,6 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
-  
-- **Graph Classification Using Structural Attention (KDD 2018)**
-  - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
-  - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
   
 - **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein, Emmanueal Müller
