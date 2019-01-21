@@ -170,12 +170,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
   
 - **Kernel Graph Convolutional Neural Networks (2017)**
-  - Nikolentzos, Giannis and Meladianos, Polykarpos and Tixier, Antoine Jean-Pierre and Skianis, Konstantinos and Vazirgiannis, Michalis
+  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
   - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
   
 - **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
-  - Bonner, Stephen and Brennan, John and Theodoropoulos, Georgios and McGough, S and Kureshi, I
+  - Stephen Bonner, John Brennan, Georgios Theodoropoulos, Ibad Kureshi, Andrew Stephen McGough
   - [[Paper]](https://ieeexplore.ieee.org/document/7840988/)
   - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
   
