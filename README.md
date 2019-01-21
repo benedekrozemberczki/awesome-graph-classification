@@ -36,7 +36,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
   
-- **Rdf2vec: Rdf graph embeddings for data mining (ISWC 2016)**
+- **Rdf2Vec: RDF Graph Embeddings for Data Mining (ISWC 2016)**
   - Petar Ristoski and Heiko Paulheim
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30)
   - [[Python Reference]](https://github.com/airobert/RDF2VecAtWebScale)
@@ -83,7 +83,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Zhang Xinyi, Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   
-- **Graph Capsule Convolutional Neural Networks (Arxiv 2018)**
+- **Graph Capsule Convolutional Neural Networks (ICML 2018)**
   - Saurabh Verma, Zhi-Li Zhang
   - [[Paper]](https://arxiv.org/abs/1805.08090)
   - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
@@ -180,7 +180,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
   
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
-  - Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P
+  - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
   - [[Paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
  
