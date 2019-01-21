@@ -42,7 +42,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/airobert/RDF2VecAtWebScale)
   
 - **Deep Graph Kernels (KDD 2015)**
-  - Yanardag, Pinar and Vishwanathan, SVN
+  - Pinar Yanardag and SVN Vishwanathan
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2783417)
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
