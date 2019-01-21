@@ -49,7 +49,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 ## Spectral and Statistical Fingerprints
 
 - **NetLSD (KDD 2018)**
-  - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
+  - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
   - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   
@@ -69,12 +69,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/vermaMachineLearning/FGSD)
   
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
-  - Shirui Pan, Jia Wu, Xingquan Zhu, Chengqi Zhang, and Philip Yu
+  -  Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz 
   - [[Paper]](https://ieeexplore.ieee.org/document/7302040)
   - [[Java Reference]](https://github.com/shiruipan/MTG)
   
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
-  - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos
+  - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, and Christos Faloutsos
   - [[Paper]](https://arxiv.org/abs/1209.2684)
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
