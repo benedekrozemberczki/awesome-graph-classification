@@ -47,6 +47,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
 ## Spectral and Statistical Fingerprints
+
 - **NetLSD (KDD 2018)**
   - Tsitsulin, Anton and Mottin, Davide and Karras, Panagiotis and Bronstein, Alex and Muller, Emmanuel
   - [[Paper]](https://arxiv.org/abs/1805.10712)
@@ -78,8 +79,18 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
+- **Capsule Graph Neural Network (ICLR 2019)**
+  - Zhang Xinyi, Lihui Chen
+  - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
+  
+- **Graph Capsule Convolutional Neural Networks (Arxiv 2018)**
+- Saurabh Verma, Zhi-Li Zhang
+- [[Paper]](https://arxiv.org/abs/1805.08090)
+- [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
+  
+
 - **Graph Classification Using Structural Attention (KDD 2018)**
-  - Lee, John Boaz and Rossi, Ryan and Kong, Xiangnan
+  - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
   - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
   - [[Python Pytorch Reference]](https://github.com/benedekrozemberczki/GAM)
 
