@@ -134,7 +134,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/tuxchow/ccm)
   
 - **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
-  - Zhang, Muhan and Cui, Zhicheng and Neumann, Marion and Chen, Yixin
+  - Muhan Zhang, Zhicheng Cui, Marion Neumann, Yixin Chen 
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
@@ -145,7 +145,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
   
 - **Deep Learning with Topological Signatures (NIPS 2017)**
-  - DHofer, Christoph and Kwitt, Roland and Niethammer, Marc and Uhl, Andreas
+  - Christoph Hofer, Roland Kwitt, Marc Niethammer, Andreas Uhl
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
