@@ -25,13 +25,13 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/nd7141/AWE)
 
 - **Graph2vec (MLGWorkshop 2017)**
-  - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
+  - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1707.05005)
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
 - **Subgraph2vec (MLGWorkshop 2016)**
-  - Narayanan, Annamalai and Chandramohan, Mahinthan and Chen, Lihui and Liu, Yang and Saminathan, Santhoshkumar
+  - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
