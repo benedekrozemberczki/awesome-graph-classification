@@ -84,11 +84,10 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   
 - **Graph Capsule Convolutional Neural Networks (Arxiv 2018)**
-- Saurabh Verma, Zhi-Li Zhang
-- [[Paper]](https://arxiv.org/abs/1805.08090)
-- [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
+  - Saurabh Verma, Zhi-Li Zhang
+  - [[Paper]](https://arxiv.org/abs/1805.08090)
+  - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
   
-
 - **Graph Classification Using Structural Attention (KDD 2018)**
   - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
   - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
