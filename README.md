@@ -104,7 +104,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/rusty1s/pytorch_geometricn)
   
 - **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
-  - Davide Bacciu, Federico Errica, Alessio Micheli 
+  - Davide Bacciu, Federico Errica, and Alessio Micheli 
   - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
   - [[Python Reference]](https://github.com/diningphil/CGMM)
 
@@ -114,7 +114,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
   
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
-  - Seongok Ryu, Jaechang Lim, Woo Youn Kim    
+  - Seongok Ryu, Jaechang Lim, and Woo Youn Kim    
   - [[Paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
   
