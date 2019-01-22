@@ -279,7 +279,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
   
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
-  - Horvath, Tamas and Gartner, Thomas and Wrobel, Stefan
+  - Tamás Horváth, Thomas Gärtner, and Stefan Wrobel
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.6158&rep=rep1&type=pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   
