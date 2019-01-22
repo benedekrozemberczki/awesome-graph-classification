@@ -206,7 +206,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
   
 - **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
-  - Bonner, Stephen and Brennan, John and Theodoropoulos, G and Kureshi, I and McGough, AS
+  - Stephen Bonner, John Brennan, and A. Stephen McGough
   - [[Paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
   - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
 
