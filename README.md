@@ -216,7 +216,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[C++ Reference]](https://github.com/horacepan/MLGkernel) 
   
 - **Faster Kernels for Graphs with Continuous Attributes (ICDM 2016)**
-  - Morris, Christopher and Kriege, Nils M and Kersting, Kristian and Mutzel, Petra
+  - Christopher Morris, Nils M. Kriege, Kristian Kersting and Petra Mutzel
   - [[Paper]](https://arxiv.org/abs/1610.00064)
   - [[Python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
   
