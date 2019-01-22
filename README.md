@@ -262,19 +262,19 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/hgascon/adagio)
   
 - **Weisfeiler-Lehman Subtree Kernels (NIPS 2009)**
-  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
+  - Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt
   - [[Paper]](http://papers.nips.cc/paper/3813-fast-subtree-kernels-on-graphs.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
   
 - **Fast Computation of Graph Kernels (NIPS 2006)**
-  - Borgwardt, Karsten M and Schraudolph, Nicol N and Vishwanathan, SVN
+  - S. V. N. Vishwanathan, Karsten M. Borgwardt, and Nicol N. Schraudolph
   - [[Paper]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/VisBorSch06.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
   
 - **Shortest-Path Kernels on Graphs (ICDM 2005)**
-  - Karsten M Borgwardt and Hans-Peter Kriegel
+  - Karsten M. Borgwardt and Hans-Peter Kriegel
   - [[Paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
   
