@@ -191,7 +191,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
 
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
-  - Nikolentzos, Giannis and Meladianos, Polykarpos and Vazirgiannis, Michalis
+  - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
   - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
   
@@ -201,7 +201,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
   
 - **On Valid Optimal Assignment Kernels and Applications to Graph Classification (2016)**
-  - Kriege, Nils M and Giscard, Pierre-Louis and Wilson, Richard
+  - Nils Kriege, Pierre-Louis Giscard, Richard Wilson
   - [[Paper]](https://arxiv.org/pdf/1606.01141.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
   
