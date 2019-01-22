@@ -20,7 +20,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 # Paper References with the implementation(s)
 ## Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
-  - Sergey Ivanov, Evgeny Burnaev
+  - Sergey Ivanov and Evgeny Burnaev
   - [[Paper]](https://arxiv.org/pdf/1805.11921.pdf)
   - [[Python Reference]](https://github.com/nd7141/AWE)
 
@@ -80,11 +80,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
  
 ## Deep Learning
 - **Capsule Graph Neural Network (ICLR 2019)**
-  - Zhang Xinyi, Lihui Chen
+  - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   
 - **Graph Capsule Convolutional Neural Networks (ICML 2018)**
-  - Saurabh Verma, Zhi-Li Zhang
+  - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://arxiv.org/abs/1805.08090)
   - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
   
