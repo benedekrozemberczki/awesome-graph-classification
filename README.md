@@ -245,13 +245,13 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/benedekrozemberczki/NestedSubtreeHash)  
   
 - **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
-  - Shervashidze, Nino and Schweitzer, Pascal and Leeuwen, Erik Jan van and Mehlhorn, Kurt and Borgwardt, Karsten M
+  - Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt
   - [[Paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
 
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
-  - Fast neighborhood subgraph pairwise distance Kernel
+  - Fabrizio Costa and Kurt De Grave
   - [[Paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
   - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
   - [[Python Reference]](https://github.com/fabriziocosta/EDeN)
