@@ -284,11 +284,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   
 - **Extensions of Marginalized Graph Kernels (ICML 2004)**
-  - Mahe, Pierre and Ueda, Nobuhisa and Akutsu, Tatsuya and Perret, Jean-Luc and Vert, Jean-Philippe
+  - Pierre Mahe, Nobuhisa Ueda, Tatsuya Akutsu, Jean-Luc Perret, and Jean-Philippe Vert 
   - [[Paper]](http://members.cbio.mines-paristech.fr/~jvert/publi/04icml/icmlMod.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   
 - **Marginalized Kernels Between Labeled Graphs (ICML 2003)**
-  - Kashima, Hisashi and Tsuda, Koji and Inokuchi, Akihiro
+  - Hisashi Kashima, Koji Tsuda, and Akihiro Inokuchi
   - [[Paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
