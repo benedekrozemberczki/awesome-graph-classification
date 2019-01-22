@@ -257,7 +257,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/fabriziocosta/EDeN)
 
 - **A Linear-time Graph Kernel (ICDM 2009)**
-  - Hido, Shohei and Kashima, Hisashi
+  - Shohei Hido and Hisashi Kashima
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5360243)  
   - [[Python Reference]](https://github.com/hgascon/adagio)
   
