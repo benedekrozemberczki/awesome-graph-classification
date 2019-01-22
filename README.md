@@ -124,17 +124,17 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/priba/siamese_ged)
   
 - **Edge Attention-based Multi-Relational Graph Convolutional Networks (2018)**
-  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, Jinbo Bi  
+  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi and Jinbo Bi  
   - [[Paper]](https://arxiv.org/abs/1802.04944v1)
   - [[Python Reference]](https://github.com/Luckick/EAGCN)
   
 - **Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI-ECAI 2018)**
-  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu
+  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu and Xiaoyan Zhu
   - [[Paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
   - [[Python Reference]](https://github.com/tuxchow/ccm)
   
 - **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
-  - Muhan Zhang, Zhicheng Cui, Marion Neumann, Yixin Chen 
+  - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen 
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
