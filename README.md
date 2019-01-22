@@ -140,17 +140,17 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
   
 - **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
-  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein, Emmanueal Müller
+  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
   - [[Paper]](https://arxiv.org/abs/1807.02839)
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
   
 - **Deep Learning with Topological Signatures (NIPS 2017)**
-  - Christoph Hofer, Roland Kwitt, Marc Niethammer, Andreas Uhl
+  - Christoph Hofer, Roland Kwitt, Marc Niethammer and Andreas Uhl
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
-  - Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola
+  - Tao Lei, Wengong Jin, Regina Barzilay and Tommi Jaakkola
   - [[Paper]](https://arxiv.org/abs/1705.09037)
   - [[Python Reference]](https://github.com/taolei87/icml17_knn)
   
@@ -160,7 +160,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/fouticus/pipgcn)
   
 - **Graph Classification with 2D Convolutional Neural Networks (2017)**
-  - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
+  - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
   
@@ -226,12 +226,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Matlab Reference]](https://github.com/marionmari/propagation_kernels)
   
 - **Halting Random Walk Kernels (NIPS 2015)**
-  - Sugiyama, Mahito and Borgwardt, Karsten
+  - Mahito Sugiyama and Karsten M. Borgward
   - [[Paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
 
 - **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
-  - Feragen, Aasa and Kasenburg, Niklas and Petersen, Jens and de Bruijne, Marleen and Borgwardt, Karsten
+  - Aasa Feragen, Niklas Kasenburg, Jens Petersen, Marleen de Bruijne and Karsten Borgwardt
   - [[Paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
   
 - **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
