@@ -274,7 +274,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
   
 - **Shortest-Path Kernels on Graphs (ICDM 2005)**
-  - Borgwardt, Karsten M and Kriegel, Hans-Peter
+  - Karsten M Borgwardt and Hans-Peter Kriegel
   - [[Paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
   
