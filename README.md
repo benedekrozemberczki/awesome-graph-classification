@@ -94,7 +94,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Pytorch Reference]](https://github.com/benedekrozemberczki/GAM)
 
 - **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NIPS 2018)**
-  - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
+  - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, and Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1806.02473)
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
   
@@ -145,12 +145,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
   
 - **Deep Learning with Topological Signatures (NIPS 2017)**
-  - Christoph Hofer, Roland Kwitt, Marc Niethammer and Andreas Uhl
+  - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
-  - Tao Lei, Wengong Jin, Regina Barzilay and Tommi Jaakkola
+  - Tao Lei, Wengong Jin, Regina Barzilay, and Tommi Jaakkola
   - [[Paper]](https://arxiv.org/abs/1705.09037)
   - [[Python Reference]](https://github.com/taolei87/icml17_knn)
   
@@ -196,7 +196,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
   
 - **Global Weisfeiler-Lehman Graph Kernels (2017)**
-  - Morris, Christopher and Kersting, Kristian and Mutzel, Petra
+  - Christopher Morris, Kristian Kersting and Petra Mutzel
   - [[Paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
   
