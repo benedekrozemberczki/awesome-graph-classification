@@ -7,7 +7,7 @@ A collection of graph embedding, deep learning, graph kernel and factorization p
 A similar collection on [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 <p align="center">
-  <img width="460" src="atlas.png">
+  <img width="300" src="atlas.png">
 </p>
 
 ##### Contents  
