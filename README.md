@@ -68,7 +68,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/vermaMachineLearning/FGSD)
   
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
-  -  Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz 
+  - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz 
   - [[Paper]](https://ieeexplore.ieee.org/document/7302040)
   - [[Java Reference]](https://github.com/shiruipan/MTG)
   
