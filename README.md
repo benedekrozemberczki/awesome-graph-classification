@@ -17,7 +17,6 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 3. [Deep Learning](#deep-learning)  
 4. [Graph Kernels](#graph-kernels)  
 
-# Paper References with the implementation(s)
 ## Factorization
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov and Evgeny Burnaev
