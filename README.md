@@ -192,7 +192,6 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
   - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
-  - [[Matlab Reference]](http://www.db-net.aueb.gr/nikolentzos/code/matchingnodes.zip)
   
 - **Global Weisfeiler-Lehman Graph Kernels (2017)**
   - Christopher Morris, Kristian Kersting and Petra Mutzel
