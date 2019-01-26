@@ -10,7 +10,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   <img width="460" src="atlas.png">
 </p>
 
-##### Table of Contents  
+##### Contents  
 
 1. [Factorization](#factorization)  
 2. [Spectral and Statistical Fingerprints](#spectral-and-statistical-fingerprints)
