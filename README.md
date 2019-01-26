@@ -100,7 +100,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 - **Hierarchical Graph Representation Learning with Differentiable Pooling (NIPS 2018)**
   - Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton and Jure Leskovec
   - [[Paper]](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
-  - [[Python Reference]](https://github.com/rusty1s/pytorch_geometricn)
+  - [[Python Reference]](https://github.com/rusty1s/pytorch_geometric)
   
 - **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
   - Davide Bacciu, Federico Errica, and Alessio Micheli 
