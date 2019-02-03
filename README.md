@@ -144,6 +144,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
   - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
   - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  - [[MATLAB Reference]](https://github.com/muhanzhang/DGCNN)
   
 - **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
