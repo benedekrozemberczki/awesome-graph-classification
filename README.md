@@ -89,7 +89,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   
-- **Three-Dimensionally Embedded Graph Convolutional Network (3DGCN) for Molecule Interpretation (Arxiv 2018)**
+- **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
   - [[Paper]](https://arxiv.org/abs/1811.09794)
   - [[Python Reference]](https://github.com/blackmints/3DGCN)
