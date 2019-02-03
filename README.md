@@ -18,6 +18,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 4. [Graph Kernels](#graph-kernels)  
 
 ## Factorization
+- **Learning Graph Representation via Frequent Subgraphs (SDM 2018)**
+  - Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung
+  - [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611975321.35)
+  - [[Python Reference]](https://github.com/nphdang/GE-FSG)
+
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov and Evgeny Burnaev
   - [[Paper]](https://arxiv.org/pdf/1805.11921.pdf)
