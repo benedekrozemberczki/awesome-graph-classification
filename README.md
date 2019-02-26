@@ -8,9 +8,9 @@ Relevant graph classification benchmark datasets are available [[here]](https://
 
 A similar collection on [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
-<div align="right">
+<p align="center">
   <img width="300" src="atlas.png">
-</div>
+</p>
 
 ##### Contents  
 
