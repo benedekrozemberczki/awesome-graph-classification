@@ -144,6 +144,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
   - [[Python Reference]](https://github.com/tuxchow/ccm)
   
+- **Residual Gated Graph ConvNets (ICLR 2018)**
+  - Xavier Bresson and Thomas Laurent 
+  - [[Paper]](https://arxiv.org/pdf/1711.07553v2.pdf) 
+  - [[Python Pytorch Reference]](https://github.com/xbresson/spatial_graph_convnets)
+  
 - **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
   - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen 
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
