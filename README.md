@@ -99,6 +99,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1811.09794)
   - [[Python Reference]](https://github.com/blackmints/3DGCN)
   
+- **Learning Graph-Level Representations with Recurrent Neural Networks (Arxiv 2018)**
+  - Yu Jin and Joseph F. JaJa 
+  - [[Paper]](https://arxiv.org/pdf/1805.07683v4.pdf)
+  - [[Python Reference]](https://github.com/yuj-umd/graphRNN)
+  
 - **Graph Capsule Convolutional Neural Networks (ICML 2018)**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://arxiv.org/abs/1805.08090)
