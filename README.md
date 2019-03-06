@@ -196,6 +196,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
   
+- **CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters (IEEE TSP 2017)**
+  - Ron Levie, Federico Monti, Xavier Bresson, Michael M. Bronstein
+  - [[Paper]](https://arxiv.org/pdf/1705.07664v2.pdf)
+  - [[Python Reference]](https://github.com/SeongokRyu/Graph-neural-networks)
+  
 - **Semi-supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
