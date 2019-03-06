@@ -94,6 +94,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
   
+- **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
+  - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley 
+  - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
+  - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules) 
+  
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
   - [[Paper]](https://arxiv.org/abs/1811.09794)
