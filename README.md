@@ -85,6 +85,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
+- **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI 2019)**
+  - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe 
+  - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
+  - [[Python Reference]](https://github.com/k-gnn/k-gnn)
+  
 - **Capsule Graph Neural Network (ICLR 2019)**
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
