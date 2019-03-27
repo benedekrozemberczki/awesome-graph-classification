@@ -93,6 +93,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 - **Capsule Graph Neural Network (ICLR 2019)**
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/CapsGNN)
   
 - **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley 
