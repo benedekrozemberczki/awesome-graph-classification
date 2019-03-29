@@ -59,6 +59,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   
+- **A simple yet effective baseline for non-attribute graph classification (Arxiv 2018)**
+  - Chen Cai, Yusu Wang
+  - [[Paper]](https://arxiv.org/abs/1811.03508)
+  - [[Python Reference]](https://github.com/xgfs/NetLSD)
+  
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
