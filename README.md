@@ -233,6 +233,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Paper]](https://ieeexplore.ieee.org/document/7840988/)
   - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
   
+- **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
+  - Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov
+  - [[Paper]](https://arxiv.org/abs/1605.05273)
+  - [[Python Reference]](https://github.com/tvayer/PSCN)
+  
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
   - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
   - [[Paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
