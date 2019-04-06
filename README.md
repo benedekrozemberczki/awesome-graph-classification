@@ -187,6 +187,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[paper]](https://arxiv.org/abs/1707.04041)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
   
+- **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs (CVPR 2017)**
+  - Martin Simonovsky and Nikos Komodakis 
+  - [[paper]](https://arxiv.org/pdf/1704.02901v3.pdf)
+  - [[Python Reference]](https://github.com/mys007/ecc)
+  
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
   - Tao Lei, Wengong Jin, Regina Barzilay, and Tommi Jaakkola
   - [[Paper]](https://arxiv.org/abs/1705.09037)
