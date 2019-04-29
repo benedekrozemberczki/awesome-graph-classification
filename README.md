@@ -11,7 +11,12 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 <p align="center">
   <img width="300" src="atlas.png">
 </p>
-
+--------------------------------------------------------------------------------
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-400+-blue.svg"/>
+	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
+	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
+</p>
 ##### Contents  
 
 1. [Factorization](#factorization)  
