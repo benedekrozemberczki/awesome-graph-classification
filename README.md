@@ -17,6 +17,7 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
 	<img src="https://img.shields.io/badge/forks-50+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
+
 ##### Contents  
 
 1. [Factorization](#factorization)  
