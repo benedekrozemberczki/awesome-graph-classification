@@ -96,6 +96,11 @@ A similar collection on [[community detection]](https://github.com/benedekrozemb
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
+- **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
+  - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
+  - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
+  
 - **Capsule Graph Neural Network (ICLR 2019)**
   - Zhang Xinyi and Lihui Chen
   - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
