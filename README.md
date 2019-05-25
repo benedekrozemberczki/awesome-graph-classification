@@ -6,7 +6,7 @@ A collection of graph embedding, deep learning, graph kernel and factorization p
 
 Relevant graph classification benchmark datasets are available [[here]](https://github.com/shiruipan/graph_datasets).
 
-A similar collection on [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [community detection](https://github.com/benedekrozemberczki/awesome-community-detection), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) papers with implementations.
 
 <p align="center">
   <img width="300" src="atlas.png">
