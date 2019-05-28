@@ -9,11 +9,11 @@ Relevant graph classification benchmark datasets are available [[here]](https://
 Similar collections about [community detection](https://github.com/benedekrozemberczki/awesome-community-detection), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) papers with implementations.
 
 <p align="center">
-  <img width="300" src="atlas.png">
+  <img width="400" src="atlas.png">
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-530+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-550+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-90+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
