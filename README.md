@@ -255,7 +255,6 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
   - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
   - [[Python Reference]](https://github.com/YunjaeChoi/ggnnmols)
-  - [[]]
   
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
   - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
