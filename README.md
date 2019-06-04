@@ -171,6 +171,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
   - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
   - [[Python Reference]](https://github.com/masashitsubaki/GNN_molecules)
+  - [[Python Alternative ]](https://github.com/xnuohz/GCNDTI)
   
 - **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
   - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
