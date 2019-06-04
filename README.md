@@ -102,10 +102,10 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
   - [[Python Reference]](https://github.com/Tony-Y/cgnn)
   
-- **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (ICML 2019)**
-  - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
+- **Explainability Techniques for Graph Convolutional Networks (ICML 2019)**
+  - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
+  - [[Python Reference]](https://github.com/gn-exp/gn-exp)
   
 - **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
   - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
