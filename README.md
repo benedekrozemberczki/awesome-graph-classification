@@ -259,7 +259,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
   - [[Paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
-  - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
+  - [[Python Reference]](https://github.com/jacklin18/neural-fingerprint-in-GNN)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
  
