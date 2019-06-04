@@ -252,7 +252,8 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **Gated Graph Sequence Neural Networks (ICLR 2016)**
   - Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
   - [[Paper]](https://arxiv.org/abs/1511.05493)
-  - [[Python Reference]](https://github.com/bdqnghi/ggnn.tensorflow)
+  - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
+  - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
   
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
   - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
