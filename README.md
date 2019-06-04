@@ -341,6 +341,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt
   - [[Paper]](http://papers.nips.cc/paper/3813-fast-subtree-kernels-on-graphs.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels) 
   
 - **Fast Computation of Graph Kernels (NIPS 2006)**
