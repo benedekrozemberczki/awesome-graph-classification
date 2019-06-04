@@ -261,7 +261,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
   - [[Python Reference]](https://github.com/jacklin18/neural-fingerprint-in-GNN)
   - [[Python Reference]](https://github.com/HIPS/neural-fingerprint)
-  - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
+  - [[Python Reference]](https://github.com/debbiemarkslab/neural-fingerprint-theano)
  
 ## Graph Kernels
 - **Message Passing Graph Kernels (2018)**
