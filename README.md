@@ -166,6 +166,12 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
   
+- **Compound-protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
+  - Masashi Tsubaki, Kentaro Tomii, and Jun Sese 
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
+  - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
+  - [[Python Reference]](https://github.com/masashitsubaki/GNN_molecules)
+  
 - **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
   - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8545310)
