@@ -323,6 +323,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt
   - [[Paper]](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
 
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
