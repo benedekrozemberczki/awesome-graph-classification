@@ -96,6 +96,17 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python]](https://github.com/kristyspatel/Netsimile) 
  
 ## Deep Learning
+
+- **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
+  - Takenori Yamamoto
+  - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
+  - [[Python Reference]](https://github.com/Tony-Y/cgnn)
+  
+- **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (ICML 2019)**
+  - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
+  - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
+  
 - **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
   - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
   - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
