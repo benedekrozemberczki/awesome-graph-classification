@@ -13,7 +13,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-640+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-660+-blue.svg"/>
 	<img src="https://img.shields.io/badge/forks-115+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
