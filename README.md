@@ -1,7 +1,9 @@
 # Awesome Graph Embedding
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-embedding.svg?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
+![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
 A collection of graph embedding, deep learning, graph kernel and factorization papers with reference implementations. 
 
 Relevant graph classification benchmark datasets are available [[here]](https://github.com/shiruipan/graph_datasets).
@@ -10,12 +12,6 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 <p align="center">
   <img width="400" src="atlas.png">
-</p>
-
-<p align="center">
-    [GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-embedding.svg?style=plastic)
-    [GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
-    [License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
 </p>
 
 ##### Contents  
