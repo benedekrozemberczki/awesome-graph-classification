@@ -13,9 +13,9 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 </p>
 
 <p align="center">
-![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-embedding.svg?style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
-![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
+    [GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-embedding.svg?style=plastic)
+    [GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
+    [License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
 </p>
 
 ##### Contents  
