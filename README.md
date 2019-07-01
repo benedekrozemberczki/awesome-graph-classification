@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
  
 ## Deep Learning
 
+- **Variational Recurrent Neural Networks for Graph Classification (ICLR 2019)**
+  - Edouard Pineau, Nathan de Lara
+  - [[Paper]](https://arxiv.org/abs/1902.02721)
+  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
+
 - **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
   - Takenori Yamamoto
   - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
