@@ -57,15 +57,15 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Spectral and Statistical Fingerprints
 
+- **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
+  - Chen Cai, Yusu Wang
+  - [[Paper]](https://arxiv.org/abs/1811.03508)
+  - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
+  
 - **NetLSD (KDD 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
   - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
-  
-- **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (Arxiv 2018)**
-  - Chen Cai, Yusu Wang
-  - [[Paper]](https://arxiv.org/abs/1811.03508)
-  - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
   
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
