@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
  
 ## Deep Learning
 
+- **Self-Attention Graph Pooling (ICML 2019)**
+  - Junhyun Lee, Inyeop Lee, Jaewoo Kang 
+  - [[Paper]](https://arxiv.org/abs/1904.08082)
+  - [[Python Reference]](https://github.com/inyeoplee77/SAGPool)
+
 - **Variational Recurrent Neural Networks for Graph Classification (ICLR 2019)**
   - Edouard Pineau, Nathan de Lara
   - [[Paper]](https://arxiv.org/abs/1902.02721)
