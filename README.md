@@ -148,6 +148,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
   - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
   - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
+  
+- **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NIPS 2019)**
+  - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
+  - [[Paper]](https://arxiv.org/abs/1802.05451)
+  - [[Python Reference]](https://github.com/shikorab/SceneGraph)
 
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
