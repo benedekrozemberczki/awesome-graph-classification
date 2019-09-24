@@ -408,6 +408,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+  
+- **Kernel on Bag of Paths For Measuring Similarity of Shapes (InESANN 2007)**
+  - Frederic Suard, Alain Rakotomamonjy, and Abdelaziz Bensrhair
+  - [[Paper]](https://pdfs.semanticscholar.org/149a/858889e8c3a54ee55b21511a7f56f5e9650b.pdf)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
 - **Fast Computation of Graph Kernels (NIPS 2006)**
   - S. V. N. Vishwanathan, Karsten M. Borgwardt, and Nicol N. Schraudolph
