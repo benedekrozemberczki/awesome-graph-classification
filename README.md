@@ -396,6 +396,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://icml.cc/Conferences/2010/papers/347.pdf)
   - [[C++ Reference]](www.bioinf.uni-freiburg.de/~costa/EDeNcpp.tgz)
   - [[Python Reference]](https://github.com/fabriziocosta/EDeN)
+  
+- **Graph Kernels (JMLR 2010)**
+  - S.V.N. Vishwanathan, Nicol N. Schraudolph, Risi Kondor, Karsten M. Borgwardt;
+  - [[Paper]](http://www.jmlr.org/papers/volume11/vishwanathan10a/vishwanathan10a.pdf)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
 - **A Linear-time Graph Kernel (ICDM 2009)**
   - Shohei Hido and Hisashi Kashima
