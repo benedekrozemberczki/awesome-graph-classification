@@ -429,6 +429,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Pierre Mahe, Nobuhisa Ueda, Tatsuya Akutsu, Jean-Luc Perret, and Jean-Philippe Vert
   - [[Paper]](http://members.cbio.mines-paristech.fr/~jvert/publi/04icml/icmlMod.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+- **Extensions of Marginalized Graph Kernels (ICML 2004)**
+  - Pierre Mahe , Nobuhisa Ueda , Tatsuya Akutsu , Jean-Luc Perret , Jean-Philippe Vert
+  - [[Paper]](http://members.cbio.mines-paristech.fr/~jvert/publi/04icml/icmlMod.pdf)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
 - **Marginalized Kernels Between Labeled Graphs (ICML 2003)**
   - Hisashi Kashima, Koji Tsuda, and Akihiro Inokuchi
