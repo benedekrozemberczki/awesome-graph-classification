@@ -361,10 +361,9 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](http://ijcai.org/Proceedings/15/Papers/468.pdf)
   - [[Matlab reference]](https://github.com/baiuoy/Matlab-code-JS-alignment-kernel-IJCAI-2015)
 
-“An Aligned Subtree Kernel for Weighted Graphs” ICML 2015
-Lu Bai, Luca Rossi, Zhihong Zhang, Edwin R. Hancock
-paper: http://proceedings.mlr.press/v37/bai15.pdf
-code will be released soon
+- **An Aligned Subtree Kernel for Weighted Graphs (ICML 2015)**
+  - Lu Bai, Luca Rossi, Zhihong Zhang, Edwin R. Hancock
+  - [[Paper]](http://proceedings.mlr.press/v37/bai15.pdf)
 
 - **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
   - Aasa Feragen, Niklas Kasenburg, Jens Petersen, Marleen de Bruijne and Karsten Borgwardt
