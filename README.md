@@ -306,6 +306,12 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/debbiemarkslab/neural-fingerprint-theano)
 
 ## Graph Kernels
+
+- **A Persistent Weisfeiler–Lehman Procedure for Graph Classification (ICML 2019)**
+  - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
+  - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
+  - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
+
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/pdf/1808.02510.pdf)
