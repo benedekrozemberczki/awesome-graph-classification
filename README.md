@@ -390,6 +390,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
+  
+- **Two New Graphs Kernels in Chemoinformatics (Pattern Recognition Letters 2012)**
+  - Benoit Gaüzère, LucBrun, and Didier Villemin
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016786551200102X)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
   - Fabrizio Costa and Kurt De Grave
