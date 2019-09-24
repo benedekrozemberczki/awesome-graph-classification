@@ -419,6 +419,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Karsten M. Borgwardt and Hans-Peter Kriegel
   - [[Paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
   - [[C++ Reference]](https://github.com/KitwareMedical/ITKTubeTK)
+  
+- **Graph Kernels for Chemical Informatics (Neural Networks 2005)**
+  - Liva Ralaivola, Sanjay J Swamidass, Hiroto Saigo, and Pierre Baldi
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608005001693)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
   - Tamás Horváth, Thomas Gärtner, and Stefan Wrobel
