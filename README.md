@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
+  - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
+  - [[Paper]](https://arxiv.org/abs/1904.04238)
+  - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019) 
+
 - **Relational Pooling for Graph Representations (ICML 2019)**
   - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
   - [[Paper]](https://arxiv.org/abs/1903.02541)
