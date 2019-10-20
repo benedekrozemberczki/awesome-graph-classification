@@ -460,7 +460,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://pdfs.semanticscholar.org/2dfd/92c808487049ab4c9b45db77e9055b9da5a2.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   
-- ** On Graph Kernels: Hardness Results and Efficient Alternatives (Learning Theory and Kernel Machines 2003)**
+- **On Graph Kernels: Hardness Results and Efficient Alternatives (Learning Theory and Kernel Machines 2003)**
   - Thomas Gärtner, Peter Flach, and Stefan Wrobel
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.8681&rep=rep1&type=pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
