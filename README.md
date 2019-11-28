@@ -27,7 +27,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **Hierarchical Stochastic Graphlet Embedding for Graph-based Pattern Recognition (Pattern Recognition 2018)**
   - Anjan Dutta, Pau Riba, Josep Lladós, Alicia Fornés
   - [[Paper]](https://arxiv.org/abs/1807.02839)
-  - [[Python Reference]](https://github.com/priba/hierarchicalSGE)
+  - [[Matlab Reference]](https://github.com/priba/hierarchicalSGE)
   
 - **Learning Graph Representation via Frequent Subgraphs (SDM 2018)**
   - Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Phung
