@@ -194,7 +194,12 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
   - [[Paper]](https://arxiv.org/abs/1802.05451)
   - [[Python Reference]](https://github.com/shikorab/SceneGraph)
-
+  
+- **Fast and Accurate Molecular Property Prediction: Learning Atomic Interactions and Potentials with Neural Networks (The Journal of Physical Chemistry Letters 2018)**
+  - Masashi Tsubaki and Teruyasu Mizoguchi
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01837)
+  - [[Python Reference]](https://github.com/masashitsubaki/molecularGNN_3Dstructure)
+  
 - **Machine Learning for Organic Cage Property Prediction (Chemical Matters 2018)**
   - Lukas Turcani, Rebecca Greenway, Kim Jelfs
   - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03572)
