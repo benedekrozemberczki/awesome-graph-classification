@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
+  - Ting Chen, Song Bian, Yizhou Sun
+  - [[Paper]](https://arxiv.org/abs/1905.04579)
+  - [[Python Reference]](https://github.com/Waterpine/vis_network) 
+
 - **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
   - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
   - [[Paper]](https://arxiv.org/abs/1904.04238)
