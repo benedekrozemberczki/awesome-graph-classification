@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **Fast Training of Sparse Graph Neural Networks on Dense Hardware (Arxiv 2019)**
+  - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
+  - [[Paper]](https://arxiv.org/abs/1906.11786)
+  - [[Python Reference]](https://github.com/anonymous-authors-iclr2020/fast_training_of_sparse_graph_neural_networks_on_dense_hardware)
+  
 - **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
   - Ting Chen, Song Bian, Yizhou Sun
   - [[Paper]](https://arxiv.org/abs/1905.04579)
