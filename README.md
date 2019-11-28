@@ -100,6 +100,12 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+
+- **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
+  - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
+  - [[Paper]](https://arxiv.org/abs/1905.13192)
+  - [[Python Reference]](https://github.com/KangchengHou/gntk)
+
 - **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
   - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
   - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
