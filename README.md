@@ -94,6 +94,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
+  - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
+  - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
+  - [[Python Reference]](https://github.com/1128bian/C-SGEN)
+
 - **Fast Training of Sparse Graph Neural Networks on Dense Hardware (Arxiv 2019)**
   - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
   - [[Paper]](https://arxiv.org/abs/1906.11786)
