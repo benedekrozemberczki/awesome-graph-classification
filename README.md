@@ -174,6 +174,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1802.05451)
   - [[Python Reference]](https://github.com/shikorab/SceneGraph)
 
+- **Machine Learning for Organic Cage Property Prediction (Chemical Matters 2018)**
+  - Lukas Turcani, Rebecca Greenway, Kim Jelfs
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03572)
+  - [[Python Reference]](https://github.com/qyuan7/Graph_Convolutional_Network_for_cages)
+  
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
   - [[Paper]](https://arxiv.org/abs/1811.09794)
