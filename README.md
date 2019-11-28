@@ -104,6 +104,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1906.11786)
   - [[Python Reference]](https://github.com/anonymous-authors-iclr2020/fast_training_of_sparse_graph_neural_networks_on_dense_hardware)
   
+- **Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling (Arxiv 2019)**
+  - Filippo Maria Bianchi, Daniele Grattarola, Lorenzo Livi, Cesare Alippi
+  - [[Paper]](https://arxiv.org/abs/1910.11436)
+  - [[Python Reference]](https://github.com/danielegrattarola/decimation-pooling)
+  
 - **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
   - Ting Chen, Song Bian, Yizhou Sun
   - [[Paper]](https://arxiv.org/abs/1905.04579)
