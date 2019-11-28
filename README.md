@@ -100,6 +100,10 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
+  - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
+  - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
+  - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
