@@ -250,7 +250,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/abs/1805.10988)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
 
-- **Compound-protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
+- **Compound-Protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
   - Masashi Tsubaki, Kentaro Tomii, and Jun Sese
   - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
   - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
@@ -321,7 +321,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/pdf/1705.07664v2.pdf)
   - [[Python Reference]](https://github.com/fmonti/CayleyNet)
 
-- **Semi-supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
+- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
