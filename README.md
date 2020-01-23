@@ -63,7 +63,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Spectral and Statistical Fingerprints
 
-- **GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features **
+- **GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features (ICONIP 2019)**
   - Hong Chen, Hisashi Koga
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
   - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
