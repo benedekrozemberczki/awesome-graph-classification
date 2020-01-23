@@ -114,6 +114,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
   - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
   - [[Python Reference]](https://github.com/1128bian/C-SGEN)
+  
+- **Unsupervised Universal Self-Attention Network for Graph Classification (Arxiv 2019)**
+  - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phun
+  - [[Paper]](https://arxiv.org/abs/1909.11855)
+  - [[Python Reference]](https://github.com/daiquocnguyen/U2GNN)
 
 - **Fast Training of Sparse Graph Neural Networks on Dense Hardware (Arxiv 2019)**
   - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
