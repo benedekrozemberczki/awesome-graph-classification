@@ -92,6 +92,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
   - [[Matlab Reference]](https://github.com/vermaMachineLearning/FGSD)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
 
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
   - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz
