@@ -104,6 +104,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
   - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
+  
+- **Graph Convolutional Networks with EigenPooling (KDD 2019)**
+  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
+  - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
+  - [[Python Reference]](https://github.com/alge24/eigenpooling)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
