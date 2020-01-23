@@ -24,6 +24,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Factorization
 
+- **GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features (ICONIP 2019)**
+  - Hong Chen, Hisashi Koga
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
+
 - **Hierarchical Stochastic Graphlet Embedding for Graph-based Pattern Recognition (Pattern Recognition 2018)**
   - Anjan Dutta, Pau Riba, Josep Lladós, Alicia Fornés
   - [[Paper]](https://arxiv.org/abs/1807.02839)
@@ -62,11 +67,6 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/pankajk/Deep-Graph-Kernels)
 
 ## Spectral and Statistical Fingerprints
-
-- **GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features (ICONIP 2019)**
-  - Hong Chen, Hisashi Koga
-  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
 
 - **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
   - Chen Cai, Yusu Wang
