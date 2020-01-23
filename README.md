@@ -100,6 +100,11 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ## Deep Learning
 
+- **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (AAAI 2020)**
+  - Michael Withnall, Edvard Lindelöf, Ola Engkvist, Hongming Chen
+  - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
+  - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
+  
 - **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
