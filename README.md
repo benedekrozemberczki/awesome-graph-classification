@@ -81,7 +81,8 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning, NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
-  - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
+  - [[Python]]()
+  - [[Python]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
 - **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018)**
   - Zixuan Zhu and Yuhai Zhao
