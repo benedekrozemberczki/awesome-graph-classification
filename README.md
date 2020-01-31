@@ -50,7 +50,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
-- **Subgraph2vec (MLGWorkshop 2016)**
+- **Subgraph2Vec (MLGWorkshop 2016)**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1606.08928)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
