@@ -394,7 +394,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
 
-- **Global Weisfeiler-Lehman Graph Kernels (2017)**
+- **Global Weisfeiler-Lehman Graph Kernels (ICDM 2017)**
   - Christopher Morris, Kristian Kersting and Petra Mutzel
   - [[Paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
