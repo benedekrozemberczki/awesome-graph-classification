@@ -84,7 +84,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python]](https://karateclub.readthedocs.io/)
   - [[Python]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
-- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy NIPS 2018)**
+- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy 2018)**
   - Zixuan Zhu and Yuhai Zhao
   - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
   - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
