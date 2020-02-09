@@ -399,7 +399,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
 
-- **On Valid Optimal Assignment Kernels and Applications to Graph Classification (2016)**
+- **On Valid Optimal Assignment Kernels and Applications to Graph Classification (NIPS 2016)**
   - Nils Kriege, Pierre-Louis Giscard, Richard Wilson
   - [[Paper]](https://arxiv.org/pdf/1606.01141.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
