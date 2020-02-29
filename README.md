@@ -379,6 +379,10 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - [[Python Reference]](https://github.com/debbiemarkslab/neural-fingerprint-theano)
 
 ## Graph Kernels
+- **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
+  - Qi Zhao, Yusu Wang
+  - [[Paper]](https://arxiv.org/abs/1904.12189)
+  - [[Code]](https://github.com/topology474/WKPI)
 
 - **A Persistent Weisfeiler–Lehman Procedure for Graph Classification (ICML 2019)**
   - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
