@@ -47,6 +47,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **Graph2vec (MLGWorkshop 2017)**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
   - [[Paper]](https://arxiv.org/abs/1707.05005)
+  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
 
