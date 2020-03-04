@@ -27,7 +27,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features (ICONIP 2019)**
   - Hong Chen, Hisashi Koga
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
+  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
 
 - **Hierarchical Stochastic Graphlet Embedding for Graph-based Pattern Recognition (Pattern Recognition 2018)**
   - Anjan Dutta, Pau Riba, Josep Lladós, Alicia Fornés
