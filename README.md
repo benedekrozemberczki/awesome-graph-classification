@@ -83,7 +83,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
-  - [[Python]](https://karateclub.readthedocs.io/)
+  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
 - **Multi-Graph Multi-Label Learning Based on Entropy (Entropy 2018)**
@@ -95,7 +95,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
   - [[Matlab Reference]](https://github.com/vermaMachineLearning/FGSD)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub/)
+  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
 
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
   - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz
