@@ -76,7 +76,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 - **NetLSD (KDD 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
-  - [[Paper]](https://arxiv.org/abs/1805.10712
+  - [[Paper]](https://arxiv.org/abs/1805.10712)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
 
