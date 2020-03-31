@@ -17,10 +17,10 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 
 ##### Contents  
 
-1. [Factorization](#factorization)  
-2. [Spectral and Statistical Fingerprints](#spectral-and-statistical-fingerprints)
-3. [Deep Learning](#deep-learning)  
-4. [Graph Kernels](#graph-kernels)  
+1. [Factorization](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/matrix_factorization.md)  
+2. [Spectral and Statistical Fingerprints](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/fingerprints.md)
+3. [Deep Learning](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/deep_learning.md)  
+4. [Graph Kernels](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/kernels.md)  
 
 ## Factorization
 
