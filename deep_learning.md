@@ -10,6 +10,12 @@
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
   - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
   
+- **Graph Classification with Automatic Topologically-Oriented Learning (ArXiV 2019)**
+  - Martin Royer, Frédéric Chazal, Clément Levrard, Yuichi Ike, Yuhei Umeda
+  - [[Paper]](https://arxiv.org/pdf/1909.13472.pdf)
+  - [[Python Reference]](https://github.com/martinroyer/atol)
+  - [[Python]](https://github.com/giotto-ai/graph_classification_with_atol)
+  
 - **Graph Convolutional Networks with EigenPooling (KDD 2019)**
   - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
   - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
