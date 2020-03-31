@@ -1,4 +1,8 @@
 ## Deep Learning
+- **Convolutional Kernel Networks for Graph-Structured Data (ArXiV 2020)**
+  - Dexiong Chen, Laurent Jacob, Julien Mairal
+  - [[Paper]](https://arxiv.org/abs/2003.05189)
+  - [[Python Reference]](https://github.com/claying/GCKN)
 
 - **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (AAAI 2020)**
   - Michael Withnall, Edvard Lindelöf, Ola Engkvist, Hongming Chen
