@@ -10,6 +10,11 @@
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
   - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
   
+- **Discriminative Structural Graph Classification (ArXiV 2019)**
+  - Younjoo Seo, Andreas Loukas, Nathanaël Perraudin
+  - [[Paper]](https://arxiv.org/abs/1905.13422)
+  - [[Python Reference]](https://github.com/youngjoo-epfl/DSGC)
+  
 - **Graph Classification with Automatic Topologically-Oriented Learning (ArXiV 2019)**
   - Martin Royer, Frédéric Chazal, Clément Levrard, Yuichi Ike, Yuhei Umeda
   - [[Paper]](https://arxiv.org/pdf/1909.13472.pdf)
