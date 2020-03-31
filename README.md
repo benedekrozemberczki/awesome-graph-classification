@@ -15,7 +15,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   <img width="400" src="atlas.png">
 </p>
 
-##### Contents  
+## Contents  
 
 1. [Matrix Factorization](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/matrix_factorization.md)  
 2. [Spectral and Statistical Fingerprints](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/fingerprints.md)
