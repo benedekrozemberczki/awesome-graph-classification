@@ -1,211 +1,272 @@
-## Deep learning
+## Deep Learning
 
-- **Deep Multi-Graph Clustering via Attentive Cross-Graph Association (WSDM 2020)**
-  - Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu and Xiang Zhang 
-  - [[Paper]](http://personal.psu.edu/dul262/dmgc.pdf)
-  - [[Python Reference]](https://github.com/flyingdoog/DMGC)
+- **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (AAAI 2020)**
+  - Michael Withnall, Edvard Lindelöf, Ola Engkvist, Hongming Chen
+  - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
+  - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
   
-- **Overlapping Community Detection with Graph Neural Networks (MLGWorkShop 2019)**
-  - Oleksandr Shchur and Stephan Gunnemann
-  - [[Paper]](http://www.kdd.in.tum.de/research/nocd/)
-  - [[Python Reference]](https://github.com/shchur/overlapping-community-detection)
-  - [[Python]](https://github.com/EthanNing/Exp-GAE-model)
+- **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
+  - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
+  - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
+  - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
+  
+- **Graph Convolutional Networks with EigenPooling (KDD 2019)**
+  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
+  - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
+  - [[Python Reference]](https://github.com/alge24/eigenpooling)
 
-- **Supervised Community Detection with Line Graph Neural Networks (ICLR 2019)**
-  - Zhengdao Chen, Xiang Li, and Joan Bruna
-  - [[Paper]](https://arxiv.org/abs/1705.08415)
-  - [[LUA Reference]](https://github.com/joanbruna/GNN_community)
-  - [[Python Reference]](https://github.com/afansi/multiscalegnn)
-  - [[Python]](https://github.com/zhengdao-chen/GNN4CD)
-  
-- **CommunityGAN: Community Detection with Generative Adversarial Nets (ArXiv 2019)**
-  - Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang
-  - [[Paper]](https://arxiv.org/abs/1901.06631)
-  - [[Python Reference]](https://github.com/SamJia/CommunityGAN)
-  
-- **An Adaptive Graph Learning Method Based on Dual Data Representations for Clustering (Pattern Recognition 2018)**
-  - Tianchi Liu, Chamara Kasun, Liyanaarachchi Lekamalage Guang-Bin Huang, and Zhiping Lin
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304880)
-  - [[Matlab Reference]](https://github.com/liut0012/ELM-CLR)
+- **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
+  - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
+  - [[Paper]](https://arxiv.org/abs/1905.13192)
+  - [[Python Reference]](https://github.com/KangchengHou/gntk)
 
-- **Improving the Efficiency and Effectiveness of Community Detection via Prior-Induced Equivalent Super-Network (Scientific Reports 2017)**
-  - Liang Yang, Di Jin, Dongxiao He, Huazhu Fu, Xiaochun Cao, and Francoise Fogelman-Soulie
-  - [[Paper]](http://yangliang.github.io/pdf/sr17.pdf)
-  - [[Python Reference]](http://yangliang.github.io/code/SUPER.zip)
+- **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
+  - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
+  - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
+  - [[Python Reference]](https://github.com/1128bian/C-SGEN)
   
-- **MGAE: Marginalized Graph Autoencoder for Graph Clustering (CIKM 2017)**
-  - Chun Wang, Shirui Pan, Guodong Long, Xingquabn Zhu, and Jing Jiang
-  - [[Paper]](https://dl.acm.org/citation.cfm?id=3132967)
-  - [[Matlab Reference]](https://github.com/FakeTibbers/MGAE)
-  
-- **Graph Clustering with Dynamic Embedding (Arxiv 2017)**
-  - Carl Yang, Mengxiong Liu, Zongyi Wang, Liyuan Liu, Jiawei Han
-  - [[Paper]](https://arxiv.org/abs/1712.08249)
-  - [[Python Reference]](https://github.com/yangji9181/GRACE)
-  
-- **Modularity based Community Detection with Deep Learning (IJCAI 2016)**
-  - Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, and Weixiong Zhan
-  - [[Paper]](http://yangliang.github.io/pdf/ijcai16.pdf)
-  - [[Python Reference]](http://yangliang.github.io/code/DC.zip)
-  
-- **Learning Deep Representations for Graph Clustering (AAAI 2014)**
-  - Fei Tian, Bin Gao, Qing Cui, Enhong Chen, and Tie-Yan Liu
-  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
-  - [[Python Reference]](https://github.com/quinngroup/deep-representations-clustering)
-  - [[Python Alternative]](https://github.com/zepx/graphencoder)
-  
-## Label Propagation, Percolation and Random Walks
+- **Unsupervised Universal Self-Attention Network for Graph Classification (Arxiv 2019)**
+  - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phun
+  - [[Paper]](https://arxiv.org/abs/1909.11855)
+  - [[Python Reference]](https://github.com/daiquocnguyen/U2GNN)
 
-- **Nonlinear Diffusion for Community Detection and Semi-Supervised Learning (WWW 2019)**
-  - Rania Ibrahim, David F. Gleich
-  - [[Paper]](https://dl.acm.org/doi/10.1145/3308558.3313483)
-  - [[Python Reference]](https://github.com/RaniaSalama/Nonlinear_Diffusion)
+- **Fast Training of Sparse Graph Neural Networks on Dense Hardware (Arxiv 2019)**
+  - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
+  - [[Paper]](https://arxiv.org/abs/1906.11786)
+  - [[Python Reference]](https://github.com/anonymous-authors-iclr2020/fast_training_of_sparse_graph_neural_networks_on_dense_hardware)
+  
+- **Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling (Arxiv 2019)**
+  - Filippo Maria Bianchi, Daniele Grattarola, Lorenzo Livi, Cesare Alippi
+  - [[Paper]](https://arxiv.org/abs/1910.11436)
+  - [[Python Reference]](https://github.com/danielegrattarola/decimation-pooling)
+  
+- **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
+  - Ting Chen, Song Bian, Yizhou Sun
+  - [[Paper]](https://arxiv.org/abs/1905.04579)
+  - [[Python Reference]](https://github.com/Waterpine/vis_network) 
 
-- **Community Detection in Bipartite Networks by Multi Label Propagation Algorithm (JSAI 2019)**
-  - Hibiki Taguchi, Tsuyoshi Murata
-  - [[Paper]](https://confit.atlas.jp/guide/event/jsai2019/subject/4B2-J-3-02/detail)
-  - [[Python Reference]](https://github.com/hbkt/BiMLPA)
-  
-- **Constrained Local Graph Clustering by Colored Random Walk (WWW 2019)**
-  - Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee and Xiang Zhang
-  - [[Paper]](http://pike.psu.edu/publications/www19.pdf)
-  - [[Matlab Reference]](https://github.com/yanyaw/colored-random-walk)
+- **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
+  - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
+  - [[Paper]](https://arxiv.org/abs/1904.04238)
+  - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019) 
 
-- **Dynamic Graph-Based Label Propagation for Density Peaks Clustering (Expert Systems 2019)**
-  - Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi and Nooruldeen Nasih Qader
-  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417418304998?via%3Dihub)
-  - [[Matlab Reference]](https://github.com/amjadseyedi/DPC-DLP)
+- **Relational Pooling for Graph Representations (ICML 2019)**
+  - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
+  - [[Paper]](https://arxiv.org/abs/1903.02541)
+  - [[Python Reference]](https://github.com/PurdueMINDS/RelationalPooling)
 
-- **Community Detection by Information Flow Simulation (ArXiv 2018)**
-  - Rajagopal Venkatesaramani and Yevgeniy Vorobeychik 
-  - [[Paper]](https://arxiv.org/abs/1805.04920)
-  - [[Python Reference]](https://github.com/rajagopalvenkat/Community_Detection-Flow_Simulation)
+- **Ego-CNN: Distributed, Egocentric Representations of Graphs for Detecting Critical Structure (ICML 2019)**
+  - Ruo-Chun Tzeng, Shan-Hung Wu
+  - [[Paper]](http://proceedings.mlr.press/v97/tzeng19a/tzeng19a.pdf)
+  - [[Python Reference]](https://github.com/rutzeng/EgoCNN)
 
-- **Multiple Local Community Detection (ACM SIGMETRICS 2017)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[Paper]](https://hal.archives-ouvertes.fr/hal-01625444)
-  - [[Python Reference]](https://github.com/ahollocou/multicom)
-  
-- **Krylov Subspace Approximation for Local Community Detection in Large Networks (ArXiv 2017)**
-  - Kun He, Pan Shi, David Bindel, and John E. Hopcroft
-  - [[Paper]](https://arxiv.org/pdf/1712.04823.pdf)
-  - [[Matlab Reference]](https://github.com/PanShi2016/LOSP_Plus)
-  
-- **Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain (ICDM 2017)**
-  - Yuchen Bian, Jingchao Ni, Wei Cheng, and Zhang Xiang
-  - [[Paper]](https://ieeexplore.ieee.org/document/8215474)
-  - [[C++ Reference]](https://github.com/flyingdoog/MWC)
+- **Self-Attention Graph Pooling (ICML 2019)**
+  - Junhyun Lee, Inyeop Lee, Jaewoo Kang
+  - [[Paper]](https://arxiv.org/abs/1904.08082)
+  - [[Python Reference]](https://github.com/inyeoplee77/SAGPool)
 
-- **Improving PageRank for Local Community Detection (ArXiv 2016)**
-  - Alexandre Hollocou, Thomas Bonald, and Marc Lelarge
-  - [[Paper]](https://arxiv.org/abs/1610.08722)
-  - [[C Reference]](https://github.com/ahollocou/walkscan)
-  - [[Python Reference]](https://github.com/ahollocou/walkscan)
-  
-- **Limited Random Walk Algorithm for Big Graph Data Clustering (Journal of Big Data 2016)**
-  - Honglei Zhang, Jenni Raitoharju, Serkan Kiranyaz, and Moncef Gabbouj
-  - [[Paper]](https://arxiv.org/abs/1606.06450)
-  - [[C++ Reference]](https://github.com/harleyzhang/LRW)
-  
-- **Community Detection Based on Structure and Content: A Content Propagation Perspective (ICDM 2015)**
-  - Liyuan Liu, Linli Xu, Zhen Wang, and Enhong Chen 
-  - [[Paper]](https://liyuanlucasliu.github.io/pdf/Liyuan-Liu-ICDM.pdf)
-  - [[Matlab Reference]](https://github.com/LiyuanLucasLiu/Content-Propagation)
-  
-- **Modeling Community Detection Using Slow Mixing Random Walks (IEEE Big Data 2015)**
-  - Ramezan Paravi, Torghabeh Narayana, and Prasad Santhanam
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/7364008)
-  - [[Python Reference]](https://github.com/paravi/MarovCommunity)
-  
-- **GossipMap: A Distributed Community Detection Algorithm for Billion-Edge Directed Graphs (SC 2015)**
-  - Seung-Hee Bae and Bill Howe
-  - [[Paper]](https://dl.acm.org/citation.cfm?id=2807668)
-  - [[C++ Reference]](https://github.com/uwescience/GossipMap)
-  
-- **Scalable Detection of Statistically Significant Communities and Hierarchies, Using Message Passing for Modularity (PNAS 2014)**
-  - Pan Zhang and Cristopher Moore
-  - [[Paper]](https://www.pnas.org/content/111/51/18144)
-  - [[Python]](https://github.com/weberfm/belief_propagation_community_detection)
-  
-- **Efficient Monte Carlo and Greedy Heuristic for the Inference of Stochastic Block Models (Phys. Rev. E 2014)**
-  - Tiago P. Peixoto
-  - [[Paper]](https://arxiv.org/pdf/1310.4378)
-  - [[Python Reference]](https://github.com/graphchallenge/GraphChallenge/tree/master/StochasticBlockPartition)
+- **Variational Recurrent Neural Networks for Graph Classification (ICLR 2019)**
+  - Edouard Pineau, Nathan de Lara
+  - [[Paper]](https://arxiv.org/abs/1902.02721)
+  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
 
-- **Overlapping Community Detection Using Seed Set Expansion (CIKM 2013)**
-  - Joyce Jiyoung Whang, David F. Gleich, and Inderjit S. Dhillon
-  - [[Paper]](http://www.cs.utexas.edu/~inderjit/public_papers/overlapping_commumity_cikm13.pdf)
-  - [[Python Reference]](https://github.com/pratham16/community-detection-by-seed-expansion)
-  
-- **Influence-Based Network-Oblivious Community Detection (ICDM 2013)**
-  - Nicola Barbieri, Francesco Bonchi, and Giuseppe Manco 
-  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6729581)
-  - [[Java  Reference]](https://github.com/gmanco/cwn)
- 
-- **SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process (ICDMW 2011)**
-  - Jierui Xie, Boleslaw K Szymanski, and Xiaoming Liu
-  - [[Paper]](https://arxiv.org/pdf/1109.5720.pdf)
-  - [[Java Reference]](https://github.com/sebastianliu/SLPA-community-detection)
-  - [[Python Reference]](https://github.com/kbalasu/SLPA)
-  - [[C++ Reference]](https://github.com/arminbalalaie/graphlab-slpa)
-  
-- **On the Generation of Stable Communities of Users for Dynamic Mobile Ad Hoc Social Networks (IEEE ICOIN  2011)**
-  - Guillaume-Jean Herbiet and Pascal Bouvry
-  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
-  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
-  
-- **SHARC: Community-Based Partitioning for Mobile Ad Hoc Networks Using Neighborhood Similarity (IEEE WoWMoM 2010)**
-  - Guillaume-Jean Herbiet and Pascal Bouvry
-  - [[Paper]](https://herbiet.gforge.uni.lu/research.html)
-  - [[Java Reference]](https://github.com/gjherbiet/gs-sharc)
-  
-- **Mapping Change in Large Networks (Plos One 2010)**
-  - Rosvall M, Bergstrom 
-  - [[Paper]](https://github.com/mapequation/significance-clustering)
-  - [[C++ Reference]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008694)
-  
-- **Graph Clustering Based on Structural/Attribute Similarities (WSDM 2009)**
-  - Yang Zhou, Hong Cheng, Jeffrey Xu Yu
-  - [[Paper]](http://www.vldb.org/pvldb/2/vldb09-175.pdf)
-  - [[Python Reference]](https://github.com/zhanghuijun-hello/Graph-Clustering-Based-on-Structural-Attribute-Similarities-)
-  
-- **Bridge Bounding: A Local Approach for Efficient Community Discovery in Complex Networks (ArXiv 2009)**
-  - Symeon Papadopoulos, Andre Skusa, Athena Vakali, Yiannis Kompatsiaris, and Nadine Wagner
-  - [[Paper]](https://arxiv.org/abs/0902.0871)
-  - [[Java Reference]](https://github.com/kleinmind/bridge-bounding)
-  
-- **The Map Equation (The European Physical Journal Special Topics 2009)**
-  - Martin Rossvall, Daniel Axelsson, and Carl T Bergstrom
-  - [[Paper]](https://arxiv.org/abs/0906.1405)
-  - [[R Reference]](igraph.org/r/doc/cluster_infomap.html)
-  - [[C Reference]](http://igraph.org/c/)
-  - [[Python Reference]](https://github.com/Tavpritesh/MapEquation)
-  
-- **Biclique Communities (Physical Review E  2008)**
-  - Sune Lehmann, Martin Schwartz, and Lars Kai Hansen
-  - [[Paper]](https://www.researchgate.net/publication/23230281_Biclique_communities)
-  - [[R Reference]](https://github.com/hecking/bipartite_community_detection)
-  
-- **Near Linear Time Algorithm to Detect Community Structures in Large-Scale Networks (Physical Review E 2008)**
-  - Usha Nandini Raghavan, Reka Albert, Soundar Kumara
-  - [[Paper]](https://arxiv.org/abs/0709.2938)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/karateclub)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/LabelPropagation)
-  - [[C++ Reference]](https://github.com/carlosmata/LabelPropagation)
+- **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
+  - Takenori Yamamoto
+  - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
+  - [[Python Reference]](https://github.com/Tony-Y/cgnn)
 
-- **Chinese Whispers: an Efficient Graph Clustering Algorithm and its Application to Natural Language Processing Problems (HLT NAACL 2006)**
-  - Chris Biemann
-  - [[Paper]](http://www.aclweb.org/anthology/W06-3812)
-  - [[Python Reference]](https://github.com/sanmayaj/ChineseWhispers)
-  - [[Python Alternative]](https://github.com/nlpub/chinese-whispers-python)
+- **Explainability Techniques for Graph Convolutional Networks (ICML 2019 Workshop)**
+  - Federico Baldassarre, Hossein Azizpour
+  - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
+  - [[Python Reference]](https://github.com/gn-exp/gn-exp)
+
+- **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
+  - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
+  - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
+
+- **Capsule Graph Neural Network (ICLR 2019)**
+  - Zhang Xinyi and Lihui Chen
+  - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/CapsGNN)
+
+- **How Powerful are Graph Neural Networks? (ICLR 2019)**
+  - Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
+  - [[Paper]](https://arxiv.org/abs/1810.00826)
+  - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
+
+- **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI 2019)**
+  - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe
+  - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
+  - [[Python Reference]](https://github.com/k-gnn/k-gnn)
+
+- **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
+  - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
+  - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
+  - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
   
-- **Uncovering the Overlapping Community Structure of Complex Networks in Nature and Society  (Nature 2005)**
-  - Gergely Palla, Imre Derenyi, Illes Farkas, Tamas Vicsek
-  - [[Paper]](https://www.researchgate.net/publication/7797121_Uncovering_the_overlapping_community_structure_of_complex_networks_in_nature_and_society)
-  - [[Python Reference]](https://github.com/nhanwei/k_clique_percolation_spark)
+- **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NIPS 2019)**
+  - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
+  - [[Paper]](https://arxiv.org/abs/1802.05451)
+  - [[Python Reference]](https://github.com/shikorab/SceneGraph)
   
-- **An Efficient Algorithm for Large-scale Detection of Protein Families (Nucleic Acids Research 2002)**
-  - Anton Enright, Stijn Van Dongen, and Christos Ouzounis
-  - [[Paper]](https://academic.oup.com/nar/article/30/7/1575/2376029)
-  - [[Python Reference]](https://github.com/HarshHarwani/markov-clustering-for-graphs)
-  - [[Python Reference]](https://github.com/lucagiovagnoli/Markov_clustering-Graph_API)
+- **Fast and Accurate Molecular Property Prediction: Learning Atomic Interactions and Potentials with Neural Networks (The Journal of Physical Chemistry Letters 2018)**
+  - Masashi Tsubaki and Teruyasu Mizoguchi
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01837)
+  - [[Python Reference]](https://github.com/masashitsubaki/molecularGNN_3Dstructure)
+  
+- **Machine Learning for Organic Cage Property Prediction (Chemical Matters 2018)**
+  - Lukas Turcani, Rebecca Greenway, Kim Jelfs
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03572)
+  - [[Python Reference]](https://github.com/qyuan7/Graph_Convolutional_Network_for_cages)
+  
+- **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
+  - Hyeoncheol Cho and Insung. S. Choi
+  - [[Paper]](https://arxiv.org/abs/1811.09794)
+  - [[Python Reference]](https://github.com/blackmints/3DGCN)
+
+- **Learning Graph-Level Representations with Recurrent Neural Networks (Arxiv 2018)**
+  - Yu Jin and Joseph F. JaJa
+  - [[Paper]](https://arxiv.org/pdf/1805.07683v4.pdf)
+  - [[Python Reference]](https://github.com/yuj-umd/graphRNN)
+
+- **Graph Capsule Convolutional Neural Networks (ICML 2018)**
+  - Saurabh Verma and Zhi-Li Zhang
+  - [[Paper]](https://arxiv.org/abs/1805.08090)
+  - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
+
+- **Graph Classification Using Structural Attention (KDD 2018)**
+  - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
+  - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
+  - [[Python Pytorch Reference]](https://github.com/benedekrozemberczki/GAM)
+
+- **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NIPS 2018)**
+  - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, and Jure Leskovec
+  - [[Paper]](https://arxiv.org/abs/1806.02473)
+  - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
+
+- **Hierarchical Graph Representation Learning with Differentiable Pooling (NIPS 2018)**
+  - Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton and Jure Leskovec
+  - [[Paper]](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
+  - [[Python Reference]](https://github.com/rusty1s/pytorch_geometric)
+
+- **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
+  - Davide Bacciu, Federico Errica, and Alessio Micheli
+  - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
+  - [[Python Reference]](https://github.com/diningphil/CGMM)
+
+- **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
+  - Nicola De Cao and Thomas Kipf
+  - [[Paper]](https://arxiv.org/pdf/1805.11973.pdf)
+  - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
+
+- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
+  - Seongok Ryu, Jaechang Lim, and Woo Youn Kim    
+  - [[Paper]](https://arxiv.org/abs/1805.10988)
+  - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
+
+- **Compound-Protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
+  - Masashi Tsubaki, Kentaro Tomii, and Jun Sese
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
+  - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
+  - [[Python Reference]](https://github.com/masashitsubaki/GNN_molecules)
+  - [[Python Alternative ]](https://github.com/xnuohz/GCNDTI)
+
+- **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
+  - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8545310)
+  - [[Python Reference]](https://github.com/priba/siamese_ged)
+
+- **Edge Attention-based Multi-Relational Graph Convolutional Networks (2018)**
+  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi and Jinbo Bi  
+  - [[Paper]](https://arxiv.org/abs/1802.04944v1)
+  - [[Python Reference]](https://github.com/Luckick/EAGCN)
+
+- **Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI-ECAI 2018)**
+  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu and Xiaoyan Zhu
+  - [[Paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
+  - [[Python Reference]](https://github.com/tuxchow/ccm)
+
+- **Residual Gated Graph ConvNets (ICLR 2018)**
+  - Xavier Bresson and Thomas Laurent
+  - [[Paper]](https://arxiv.org/pdf/1711.07553v2.pdf)
+  - [[Python Pytorch Reference]](https://github.com/xbresson/spatial_graph_convnets)
+
+- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
+  - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen
+  - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
+  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  - [[MATLAB Reference]](https://github.com/muhanzhang/DGCNN)
+  - [[Python Alternative]](https://github.com/leftthomas/DGCNN)
+  - [[Python Alternative]](https://github.com/hitlic/DGCNN-tensorflow)
+
+- **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
+  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
+  - [[Paper]](https://arxiv.org/abs/1807.02839)
+  - [[Python Reference]](http://mott.in/publications/others/sgr/)
+
+- **Deep Learning with Topological Signatures (NIPS 2017)**
+  - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
+  - [[paper]](https://arxiv.org/abs/1707.04041)
+  - [[Python Reference]](https://github.com/c-hofer/nips2017)
+
+- **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs (CVPR 2017)**
+  - Martin Simonovsky and Nikos Komodakis
+  - [[paper]](https://arxiv.org/pdf/1704.02901v3.pdf)
+  - [[Python Reference]](https://github.com/mys007/ecc)
+
+- **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
+  - Tao Lei, Wengong Jin, Regina Barzilay, and Tommi Jaakkola
+  - [[Paper]](https://arxiv.org/abs/1705.09037)
+  - [[Python Reference]](https://github.com/taolei87/icml17_knn)
+
+- **Protein Interface Prediction using Graph Convolutional Networks (NIPS 2017)**
+  - Alex Fout, Jonathon Byrd, Basir Shariat and Asa Ben-Hur
+  - [[Paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
+  - [[Python Reference]](https://github.com/fouticus/pipgcn)
+
+- **Graph Classification with 2D Convolutional Neural Networks (2017)**
+  - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/abs/1708.02218)
+  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
+
+- **CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters (IEEE TSP 2017)**
+  - Ron Levie, Federico Monti, Xavier Bresson, Michael M. Bronstein
+  - [[Paper]](https://arxiv.org/pdf/1705.07664v2.pdf)
+  - [[Python Reference]](https://github.com/fmonti/CayleyNet)
+
+- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
+  - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
+  - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
+  - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
+
+- **Kernel Graph Convolutional Neural Networks (2017)**
+  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+
+- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
+  - Stephen Bonner, John Brennan, Georgios Theodoropoulos, Ibad Kureshi, Andrew Stephen McGough
+  - [[Paper]](https://ieeexplore.ieee.org/document/7840988/)
+  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
+
+- **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
+  - Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov
+  - [[Paper]](https://arxiv.org/abs/1605.05273)
+  - [[Python Reference]](https://github.com/tvayer/PSCN)
+
+- **Gated Graph Sequence Neural Networks (ICLR 2016)**
+  - Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
+  - [[Paper]](https://arxiv.org/abs/1511.05493)
+  - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
+  - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
+  - [[Python Reference]](https://github.com/YunjaeChoi/ggnnmols)
+
+- **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
+  - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
+  - [[Paper]](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
+  - [[Python Reference]](https://github.com/fllinares/neural_fingerprints_tf)
+  - [[Python Reference]](https://github.com/jacklin18/neural-fingerprint-in-GNN)
+  - [[Python Reference]](https://github.com/HIPS/neural-fingerprint)
+  - [[Python Reference]](https://github.com/debbiemarkslab/neural-fingerprint-theano)
