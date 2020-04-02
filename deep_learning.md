@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES (ICLR 2020)**
+  - Jatin Chauhan, Deepak Nathani, Manohar Kaul
+  - [[Paper]](https://openreview.net/forum?id=Bkeeca4Kvr)
+  - [[Python Reference]](https://github.com/chauhanjatin10/GraphsFewShot)
+  
 - **Memory-Based Graph Networks (ICLR 2020)**
   - Amir Hosein Khasahmadi, Kaveh Hassani, Parsa Moradi, Leo Lee, Quaid Morris
   - [[Paper]](https://openreview.net/forum?id=r1laNeBYPB)
