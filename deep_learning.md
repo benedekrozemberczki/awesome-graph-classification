@@ -3,7 +3,7 @@
 - **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization (ICLR 2020)**
   - Fan-yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang
   - [[Paper]](https://openreview.net/pdf?id=r1lfF2NYvH)
-  - [[Python Reference]](https://github.com/claying/GCKN)
+  - [[Python Reference]](https://github.com/fanyun-sun/InfoGraph)
   
 - **Convolutional Kernel Networks for Graph-Structured Data (ArXiV 2020)**
   - Dexiong Chen, Laurent Jacob, Julien Mairal
