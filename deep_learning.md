@@ -1,6 +1,6 @@
 ## Deep Learning
 
-- **FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES (ICLR 2020)**
+- **Few-shot Learning on Graphs Via Super-Classes Based on Graph Spectral Measures (ICLR 2020)**
   - Jatin Chauhan, Deepak Nathani, Manohar Kaul
   - [[Paper]](https://openreview.net/forum?id=Bkeeca4Kvr)
   - [[Python Reference]](https://github.com/chauhanjatin10/GraphsFewShot)
