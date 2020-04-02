@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **A Fair Comparison of Graph Neural Networks for Graph Classification (ICLR 2020)**
+  - Federico Errica, Marco Podda, Davide Bacciu, Alessio Micheli
+  - [[Paper]](https://openreview.net/pdf?id=HygDF6NFPB)
+  - [[Python Reference]](https://github.com/diningphil/gnn-comparison)
+
 - **StructPool: Structured Graph Pooling via Conditional Random Fields (ICLR 2020)**
   - Hao Yuan, Shuiwang Ji
   - [[Paper]](https://openreview.net/forum?id=BJxg_hVtwH)
