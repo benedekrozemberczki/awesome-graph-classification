@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **Memory-Based Graph Networks (ICLR 2020)**
+  - Amir Hosein Khasahmadi, Kaveh Hassani, Parsa Moradi, Leo Lee, Quaid Morris
+  - [[Paper]](https://openreview.net/forum?id=r1laNeBYPB)
+  - [[Python Reference]](https://github.com/amirkhas/GraphMemoryNet)
+
 - **A Fair Comparison of Graph Neural Networks for Graph Classification (ICLR 2020)**
   - Federico Errica, Marco Podda, Davide Bacciu, Alessio Micheli
   - [[Paper]](https://openreview.net/pdf?id=HygDF6NFPB)
