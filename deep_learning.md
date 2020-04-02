@@ -1,5 +1,10 @@
 ## Deep Learning
 
+- **StructPool: Structured Graph Pooling via Conditional Random Fields (ICLR 2020)**
+  - Hao Yuan, Shuiwang Ji
+  - [[Paper]](https://openreview.net/forum?id=BJxg_hVtwH)
+  - [[Python Reference]](https://github.com/Nate1874/StructPool)
+  
 - **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization (ICLR 2020)**
   - Fan-yun Sun, Jordan Hoffman, Vikas Verma, Jian Tang
   - [[Paper]](https://openreview.net/pdf?id=r1lfF2NYvH)
