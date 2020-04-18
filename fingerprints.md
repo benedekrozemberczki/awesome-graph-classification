@@ -3,7 +3,7 @@
 - **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (WWW 2020)**
   - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
   - [[Paper]](https://arxiv.org/abs/2003.01282)
-  - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
+  - [[Python Reference]](https://github.com/google-research/google-research/tree/master/graph_embedding/slaq)
 
 - **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
   - Chen Cai, Yusu Wang
