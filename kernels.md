@@ -1,4 +1,9 @@
 ## Graph Kernels
+- **Distribution of Node Embeddings asMultiresolution Features for Graphs (ICDM 2019)**
+  - Mark Heimann, Tara Safavi, and Danai Koutra
+  - [[Paper]](https://gemslab.github.io/papers/heimann-2019-RGM.pdf)
+  - [[Code]](https://github.com/GemsLab/RGM)
+  
 - **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
   - Qi Zhao, Yusu Wang
   - [[Paper]](https://arxiv.org/abs/1904.12189)
