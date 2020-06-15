@@ -1,4 +1,9 @@
 ## Graph Kernels
+- **DDGK: Learning Graph Representations for Deep Divergence Graph Kernels (WWW 2020)**
+  -  Rami Al-Rfou, Dustin Zelle, Bryan Perozzi
+  - [[Paper]](https://arxiv.org/abs/1904.09671v1)
+  - [[Code]](https://github.com/google-research/google-research/tree/master/graph_embedding/ddgk)
+
 - **Distribution of Node Embeddings asMultiresolution Features for Graphs (ICDM 2019)**
   - Mark Heimann, Tara Safavi, and Danai Koutra
   - [[Paper]](https://gemslab.github.io/papers/heimann-2019-RGM.pdf)
