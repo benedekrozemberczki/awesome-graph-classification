@@ -9,6 +9,11 @@
   - [[Paper]](https://arxiv.org/abs/2003.00982)
   - [[Python Reference]](https://github.com/graphdeeplearning/benchmarking-gnns)
   
+- **Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport (ICLR 2020)**
+  - Tengfei Ma, Jie Chen
+  - [[Paper]](https://arxiv.org/abs/1912.11176v1)
+  - [[Python Reference]](https://github.com/matenure/OTCoarsening)
+  
 - **IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification (ICLR 2020)**
   - Lin Meng, Jiawei Zhang
   - [[Paper]](https://arxiv.org/abs/1907.09495v2)
