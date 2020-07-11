@@ -325,6 +325,8 @@
   - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
   - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+  
+### 2016
 
 - **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
   - Stephen Bonner, John Brennan, Georgios Theodoropoulos, Ibad Kureshi, Andrew Stephen McGough
