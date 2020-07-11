@@ -74,6 +74,11 @@
   - Hongyang Gao, Shuiwang Ji
   - [[Paper]](https://arxiv.org/abs/1905.05178v1f)
   - [[Python Reference]](https://github.com/HongyangGao/Graph-U-Nets)
+  
+- **Variational Recurrent Neural Networks for Graph Classification (ICLR RLGM 2019)**
+  - Edouard Pineau, Nathan de Lara
+  - [[Paper]](https://arxiv.org/abs/1902.02721v4)
+  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
