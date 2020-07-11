@@ -62,7 +62,7 @@
   - [[Python Reference]](https://github.com/alge24/eigenpooling)
   
 - **Graph U-Nets (ICML 2019)**
-  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
+  - Hongyang Gao, Shuiwang Ji
   - [[Paper]](https://arxiv.org/abs/1905.05178v1f)
   - [[Python Reference]](https://github.com/HongyangGao/Graph-U-Nets)
 
