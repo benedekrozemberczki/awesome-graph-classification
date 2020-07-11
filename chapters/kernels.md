@@ -152,6 +152,8 @@
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
 
+### 2005
+
 - **Shortest-Path Kernels on Graphs (ICDM 2005)**
   - Karsten M. Borgwardt and Hans-Peter Kriegel
   - [[Paper]](https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/papers/BorKri05.pdf)
