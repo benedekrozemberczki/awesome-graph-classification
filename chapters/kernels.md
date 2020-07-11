@@ -17,7 +17,7 @@
 - **Optimal Transport for Structured Data with Application on Graphs (ICML 2019)**
   - Vayer Titouan, Nicolas Courty, Romain Tavenard, Chapel Laetitia, Rémi Flamary
   - [[Paper]](http://proceedings.mlr.press/v97/titouan19a.html)
-  - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
+  - [[Python Reference]](https://github.com/PythonOT/POT)
   
 - **A Persistent Weisfeiler–Lehman Procedure for Graph Classification (ICML 2019)**
   - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
