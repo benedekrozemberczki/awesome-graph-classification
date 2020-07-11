@@ -162,6 +162,8 @@
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608005001693)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
 
+### 2004
+
 - **Cyclic Pattern Kernels For Predictive Graph Mining (KDD 2004)**
   - Tamás Horváth, Thomas Gärtner, and Stefan Wrobel
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.6158&rep=rep1&type=pdf)
