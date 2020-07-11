@@ -4,7 +4,7 @@
   - [[Paper]](https://arxiv.org/abs/1904.09671v1)
   - [[Code]](https://github.com/google-research/google-research/tree/master/graph_embedding/ddgk)
 
-- **Distribution of Node Embeddings asMultiresolution Features for Graphs (ICDM 2019)**
+- **Distribution of Node Embeddings as Multiresolution Features for Graphs (ICDM 2019)**
   - Mark Heimann, Tara Safavi, and Danai Koutra
   - [[Paper]](https://gemslab.github.io/papers/heimann-2019-RGM.pdf)
   - [[Code]](https://github.com/GemsLab/RGM)
