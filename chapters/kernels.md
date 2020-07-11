@@ -33,16 +33,15 @@
   - Marion Neumann, Roman Garnett, Christian Bauckhage, Kristian Kersting
   - [[Paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[Matlab Reference]](https://github.com/marionmari/propagation_kernels)
+  
+### 2018
 
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/pdf/1808.02510.pdf)
   - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
   
-- **Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor (JMLR 2017)**
-  - Genki Kusano, Kenji  Fukumizu, Yasuaki  Hiraoka
-  - [[Paper]](https://dl.acm.org/doi/abs/10.5555/3122009.3242046)
-  - [[Python Reference]](https://github.com/genki-kusano/python-pwgk)
+### 2017
 
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
   - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
@@ -52,21 +51,18 @@
   - Christopher Morris, Kristian Kersting and Petra Mutzel
   - [[Paper]](https://arxiv.org/pdf/1703.02379.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
+  
+- **Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor (JMLR 2017)**
+  - Genki Kusano, Kenji  Fukumizu, Yasuaki  Hiraoka
+  - [[Paper]](https://dl.acm.org/doi/abs/10.5555/3122009.3242046)
+  - [[Python Reference]](https://github.com/genki-kusano/python-pwgk)
 
 - **On Valid Optimal Assignment Kernels and Applications to Graph Classification (NIPS 2016)**
   - Nils Kriege, Pierre-Louis Giscard, Richard Wilson
   - [[Paper]](https://arxiv.org/pdf/1606.01141.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
 
-- **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
-  - Stephen Bonner, John Brennan, and A. Stephen McGough
-  - [[Paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
-  - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
-
-- **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
-  - Risi Kondor and Horace Pan
-  - [[Paper]](https://arxiv.org/abs/1603.06186)
-  - [[C++ Reference]](https://github.com/horacepan/MLGkernel)
+### 2016
 
 - **Faster Kernels for Graphs with Continuous Attributes (ICDM 2016)**
   - Christopher Morris, Nils M. Kriege, Kristian Kersting and Petra Mutzel
@@ -78,25 +74,39 @@
   - [[Paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[Matlab Reference]](https://github.com/marionmari/propagation_kernels)
 
-- **Halting Random Walk Kernels (NIPS 2015)**
-  - Mahito Sugiyama and Karsten M. Borgward
-  - [[Paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
-  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+- **Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’ (MLGWorkshop 2016)**
+  - Stephen Bonner, John Brennan, and A. Stephen McGough
+  - [[Paper]](http://dro.dur.ac.uk/19773/1/19773.pdf?DDD10+lzdh59+d700tmt)    
+  - [[python Reference]](https://github.com/sbonner0/GraphFingerprintComparison)
+
+- **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
+  - Risi Kondor and Horace Pan
+  - [[Paper]](https://arxiv.org/abs/1603.06186)
+  - [[C++ Reference]](https://github.com/horacepan/MLGkernel)
+
+### 2015
+
+- **An Aligned Subtree Kernel for Weighted Graphs (ICML 2015)**
+  - Lu Bai, Luca Rossi, Zhihong Zhang, Edwin R. Hancock
+  - [[Paper]](http://proceedings.mlr.press/v37/bai15.pdf)
   
 - **A Graph Kernel Based on the Jensen-Shannon Representation Alignment (IJCAI 2015)**
   - Lu Bai, Zhihong Zhang, Chaoyan Wang, Xiao Bai, Edwin R. Hancock
   - [[Paper]](http://ijcai.org/Proceedings/15/Papers/468.pdf)
   - [[Matlab reference]](https://github.com/baiuoy/Matlab-code-JS-alignment-kernel-IJCAI-2015)
 
-- **An Aligned Subtree Kernel for Weighted Graphs (ICML 2015)**
-  - Lu Bai, Luca Rossi, Zhihong Zhang, Edwin R. Hancock
-  - [[Paper]](http://proceedings.mlr.press/v37/bai15.pdf)
+- **Halting Random Walk Kernels (NIPS 2015)**
+  - Mahito Sugiyama and Karsten M. Borgward
+  - [[Paper]](https://pdfs.semanticscholar.org/79ba/8bcfbf9496834fdc22a1f7c96d26d776cd6c.pdf)
+  - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+
+### 2013
 
 - **Scalable Kernels for Graphs with Continuous Attributes (NIPS 2013)**
   - Aasa Feragen, Niklas Kasenburg, Jens Petersen, Marleen de Bruijne and Karsten Borgwardt
   - [[Paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
 
-## 2012
+### 2012
 
 - **Nested Subtree Hash Kernels for Large-Scale Graph Classification over Streams (ICDM 2012)**
   - Bin Li, Xingquan Zhu, Lianhua Chi, Chengqi Zhang
