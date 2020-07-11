@@ -1,10 +1,5 @@
 ## Spectral and Statistical Fingerprints
 
-- **Learning Distributed Representations of Graphs with Geo2DR (ICML GRL 2020)**
-  - Paul Scherer and Pietro Lio
-  - [[Paper]](https://arxiv.org/abs/2003.05926v3)
-  - [[Python Reference]](https://github.com/paulmorio/geo2dr)
-
 - **Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models (AXiv 2020)**
   - Benedek Rozemberczki and Rik Sarkar
   - [[Paper]](https://arxiv.org/abs/2005.07959)
