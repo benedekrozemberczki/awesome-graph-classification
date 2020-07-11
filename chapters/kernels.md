@@ -33,6 +33,11 @@
   - Giannis Nikolentzos, Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/pdf/1808.02510.pdf)
   - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
+  
+- **Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor (JMLR 2017)**
+  - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
+  - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
 
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
   - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
