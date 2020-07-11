@@ -285,6 +285,8 @@
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
   - [[Paper]](https://arxiv.org/abs/1807.02839)
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
+  
+### 2017
 
 - **Deep Learning with Topological Signatures (NIPS 2017)**
   - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
