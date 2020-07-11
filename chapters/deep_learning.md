@@ -55,12 +55,22 @@
   - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
   - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
   
-  ### 2019
-  
+### 2019
+
 - **GSSNN: Graph Smoothing Splines Neural Network (AAAI 2020)**
   - Shichao Zhu, Lewei Zhou, Shirui Pan, Chuan Zhou, Guiying Yan, Bin Wang 
   - [[Paper]](https://shiruipan.github.io/publication/aaai-2020-zhu)
   - [[Python Reference]](https://github.com/CheriseZhu/GSSNN)
+
+- **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI 2019)**
+  - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe
+  - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
+  - [[Python Reference]](https://github.com/k-gnn/k-gnn)
+
+- **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
+  - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
+  - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
+  - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
   
 - **Discriminative Structural Graph Classification (ArXiV 2019)**
   - Younjoo Seo, Andreas Loukas, Nathanaël Perraudin
@@ -72,41 +82,16 @@
   - [[Paper]](https://arxiv.org/pdf/1909.13472.pdf)
   - [[Python Reference]](https://github.com/martinroyer/atol)
   - [[Python]](https://github.com/giotto-ai/graph_classification_with_atol)
-  
-- **Graph Convolutional Networks with EigenPooling (KDD 2019)**
-  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
-  - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
-  - [[Python Reference]](https://github.com/alge24/eigenpooling)
-  
-- **Graph U-Nets (ICML 2019)**
-  - Hongyang Gao, Shuiwang Ji
-  - [[Paper]](https://arxiv.org/abs/1905.05178v1f)
-  - [[Python Reference]](https://github.com/HongyangGao/Graph-U-Nets)
-  
-- **Variational Recurrent Neural Networks for Graph Classification (ICLR RLGM 2019)**
-  - Edouard Pineau, Nathan de Lara
-  - [[Paper]](https://arxiv.org/abs/1902.02721v4)
-  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
 
-- **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
-  - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
-  - [[Paper]](https://arxiv.org/abs/1905.13192)
-  - [[Python Reference]](https://github.com/KangchengHou/gntk)
-  
-- **Provably Powerful Graph Networks (NeurIPS 2019)**
-  - Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman
-  - [[Paper]](https://arxiv.org/abs/1905.11136v4)
-  - [[Python Reference]](https://github.com/hadarser/ProvablyPowerfulGraphNetworks_torch)
-
-- **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
-  - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
-  - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
-  - [[Python Reference]](https://github.com/1128bian/C-SGEN)
-  
 - **Unsupervised Universal Self-Attention Network for Graph Classification (Arxiv 2019)**
   - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phun
   - [[Paper]](https://arxiv.org/abs/1909.11855)
   - [[Python Reference]](https://github.com/daiquocnguyen/U2GNN)
+
+- **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
+  - Takenori Yamamoto
+  - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
+  - [[Python Reference]](https://github.com/Tony-Y/cgnn)
 
 - **Fast Training of Sparse Graph Neural Networks on Dense Hardware (Arxiv 2019)**
   - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
@@ -121,12 +106,32 @@
 - **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
   - Ting Chen, Song Bian, Yizhou Sun
   - [[Paper]](https://arxiv.org/abs/1905.04579)
-  - [[Python Reference]](https://github.com/Waterpine/vis_network) 
+  - [[Python Reference]](https://github.com/Waterpine/vis_network)
 
 - **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
   - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
   - [[Paper]](https://arxiv.org/abs/1904.04238)
   - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019) 
+
+- **Variational Recurrent Neural Networks for Graph Classification (ICLR RLGM 2019)**
+  - Edouard Pineau, Nathan de Lara
+  - [[Paper]](https://arxiv.org/abs/1902.02721v4)
+  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
+
+- **Capsule Graph Neural Network (ICLR 2019)**
+  - Zhang Xinyi and Lihui Chen
+  - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
+  - [[Python Reference]](https://github.com/benedekrozemberczki/CapsGNN)
+
+- **How Powerful are Graph Neural Networks? (ICLR 2019)**
+  - Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
+  - [[Paper]](https://arxiv.org/abs/1810.00826)
+  - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
+
+- **Graph U-Nets (ICML 2019)**
+  - Hongyang Gao, Shuiwang Ji
+  - [[Paper]](https://arxiv.org/abs/1905.05178v1f)
+  - [[Python Reference]](https://github.com/HongyangGao/Graph-U-Nets)
 
 - **Relational Pooling for Graph Representations (ICML 2019)**
   - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
@@ -143,50 +148,40 @@
   - [[Paper]](https://arxiv.org/abs/1904.08082)
   - [[Python Reference]](https://github.com/inyeoplee77/SAGPool)
 
-- **Variational Recurrent Neural Networks for Graph Classification (ICLR 2019)**
-  - Edouard Pineau, Nathan de Lara
-  - [[Paper]](https://arxiv.org/abs/1902.02721)
-  - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
-
-- **Crystal Graph Neural Networks for Data Mining in Materials Science (Arxiv 2019)**
-  - Takenori Yamamoto
-  - [[Paper]](https://storage.googleapis.com/rimcs_cgnn/cgnn_matsci_May_27_2019.pdf)
-  - [[Python Reference]](https://github.com/Tony-Y/cgnn)
-
 - **Explainability Techniques for Graph Convolutional Networks (ICML 2019 Workshop)**
   - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
   - [[Python Reference]](https://github.com/gn-exp/gn-exp)
 
+- **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
+  - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
+  - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00410)
+  - [[Python Reference]](https://github.com/1128bian/C-SGEN)
+
+- **Graph Convolutional Networks with EigenPooling (KDD 2019)**
+  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
+  - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
+  - [[Python Reference]](https://github.com/alge24/eigenpooling)
+
+- **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
+  - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
+  - [[Paper]](https://arxiv.org/abs/1905.13192)
+  - [[Python Reference]](https://github.com/KangchengHou/gntk)
+  
+- **Provably Powerful Graph Networks (NeurIPS 2019)**
+  - Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman
+  - [[Paper]](https://arxiv.org/abs/1905.11136v4)
+  - [[Python Reference]](https://github.com/hadarser/ProvablyPowerfulGraphNetworks_torch)
+
+- **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NeurIPS 2019)**
+  - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
+  - [[Paper]](https://arxiv.org/abs/1802.05451)
+  - [[Python Reference]](https://github.com/shikorab/SceneGraph)
+
 - **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
   - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
   - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
-
-- **Capsule Graph Neural Network (ICLR 2019)**
-  - Zhang Xinyi and Lihui Chen
-  - [[Paper]](https://openreview.net/forum?id=Byl8BnRcYm)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/CapsGNN)
-
-- **How Powerful are Graph Neural Networks? (ICLR 2019)**
-  - Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
-  - [[Paper]](https://arxiv.org/abs/1810.00826)
-  - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
-
-- **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks (AAAI 2019)**
-  - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe
-  - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
-  - [[Python Reference]](https://github.com/k-gnn/k-gnn)
-
-- **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
-  - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
-  - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
-  - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
-  
-- **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NIPS 2019)**
-  - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
-  - [[Paper]](https://arxiv.org/abs/1802.05451)
-  - [[Python Reference]](https://github.com/shikorab/SceneGraph)
   
 ### 2018
 
