@@ -96,15 +96,24 @@
   - Aasa Feragen, Niklas Kasenburg, Jens Petersen, Marleen de Bruijne and Karsten Borgwardt
   - [[Paper]](https://papers.nips.cc/paper/5155-scalable-kernels-for-graphs-with-continuous-attributes.pdf)
 
-- **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
-  - Nils Kriege and Petra Mutzel
-  - [[Paper]](https://arxiv.org/abs/1206.6483)
-  - [[Python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)  
+## 2012
 
 - **Nested Subtree Hash Kernels for Large-Scale Graph Classification over Streams (ICDM 2012)**
   - Bin Li, Xingquan Zhu, Lianhua Chi, Chengqi Zhang
   - [[Paper]](https://ieeexplore.ieee.org/document/6413884/)
-  - [[Python Reference]](https://github.com/benedekrozemberczki/NestedSubtreeHash)  
+  - [[Python Reference]](https://github.com/benedekrozemberczki/NestedSubtreeHash) 
+
+- **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
+  - Nils Kriege and Petra Mutzel
+  - [[Paper]](https://arxiv.org/abs/1206.6483)
+  - [[Python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)   
+
+- **Two New Graphs Kernels in Chemoinformatics (Pattern Recognition Letters 2012)**
+  - Benoit Gaüzère, LucBrun, and Didier Villemin
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016786551200102X)
+  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+### 2011
 
 - **Weisfeiler-Lehman Graph Kernels (JMLR 2011)**
   - Nino Shervashidze, Pascal Schweitzer, Erik Jan van Leeuwen, Kurt Mehlhorn, and Karsten M. Borgwardt
@@ -112,12 +121,7 @@
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)  
-  
-- **Two New Graphs Kernels in Chemoinformatics (Pattern Recognition Letters 2012)**
-  - Benoit Gaüzère, LucBrun, and Didier Villemin
-  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016786551200102X)
-  - [[Python Reference]](https://github.com/jajupmochi/py-graph)
-  
+
 ### 2010
 
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
