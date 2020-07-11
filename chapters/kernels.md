@@ -10,7 +10,7 @@
   - [[Code]](https://github.com/GemsLab/RGM)
   
 - **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
-  - Qi Zhao, Yusu Wang
+  - Matteo Togninalli, Elisabetta Ghisu, Felipe Llinares-López, Bastian Rieck, and Karsten Borgwardt
   - [[Paper]](http://papers.nips.cc/paper/8872-wasserstein-weisfeiler-lehman-graph-kernels)
   - [[Code]](https://github.com/topology474/WKPI)
   
