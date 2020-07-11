@@ -285,6 +285,11 @@
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
   - [[Paper]](https://arxiv.org/abs/1807.02839)
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
+
+- **Kernel Graph Convolutional Neural Networks (ICANN 2018)**
+  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
   
 ### 2017
 
@@ -308,7 +313,7 @@
   - [[Paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
   - [[Python Reference]](https://github.com/fouticus/pipgcn)
 
-- **Graph Classification with 2D Convolutional Neural Networks (2017)**
+- **Graph Classification with 2D Convolutional Neural Networks (ICANN 2019)**
   - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
   - [[Paper]](https://arxiv.org/abs/1708.02218)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
@@ -322,11 +327,6 @@
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
-
-- **Kernel Graph Convolutional Neural Networks (2017)**
-  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
-  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
   
 ### 2016
 
