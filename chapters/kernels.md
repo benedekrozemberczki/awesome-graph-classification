@@ -11,7 +11,7 @@
   
 - **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
   - Qi Zhao, Yusu Wang
-  - [[Paper]](https://arxiv.org/abs/1904.12189)
+  - [[Paper]](http://papers.nips.cc/paper/8872-wasserstein-weisfeiler-lehman-graph-kernels)
   - [[Code]](https://github.com/topology474/WKPI)
   
 - **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
