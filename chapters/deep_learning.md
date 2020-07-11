@@ -4,6 +4,11 @@
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
   - [[Paper]](https://arxiv.org/abs/2003.00982)
   - [[Python Reference]](https://github.com/graphdeeplearning/benchmarking-gnns)
+  
+- **IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification (ICLR 2020)**
+  - Lin Meng, Jiawei Zhang
+  - [[Paper]](https://arxiv.org/abs/1907.09495v2)
+  - [[Python Reference]](https://github.com/linmengsysu/IsoNN)
 
 - **Few-shot Learning on Graphs Via Super-Classes Based on Graph Spectral Measures (ICLR 2020)**
   - Jatin Chauhan, Deepak Nathani, Manohar Kaul
