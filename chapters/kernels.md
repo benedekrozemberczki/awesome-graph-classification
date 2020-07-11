@@ -21,7 +21,7 @@
   
 - **Propagation Kernels: Efficient Graph Kernels from Propagated Information (Machine Learning 2019)**
   - Marion Neumann, Roman Garnett, Christian Bauckhage, Kristian Kersting
-  - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
+  - [[Paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
 
 - **Message Passing Graph Kernels (2018)**
