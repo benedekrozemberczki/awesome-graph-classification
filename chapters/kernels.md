@@ -20,7 +20,7 @@
   - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
   
 - **Propagation Kernels: Efficient Graph Kernels from Propagated Information (Machine Learning 2019)**
-  - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
+  - Marion Neumann, Roman Garnett, Christian Bauckhage, Kristian Kersting
   - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
   - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
 
