@@ -117,6 +117,8 @@
   - Benoit Gaüzère, LucBrun, and Didier Villemin
   - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S016786551200102X)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+### 2010
 
 - **Fast Neighborhood Subgraph Pairwise Distance Kernel (ICML 2010)**
   - Fabrizio Costa and Kurt De Grave
@@ -128,6 +130,8 @@
   - S.V.N. Vishwanathan, Nicol N. Schraudolph, Risi Kondor, Karsten M. Borgwardt;
   - [[Paper]](http://www.jmlr.org/papers/volume11/vishwanathan10a/vishwanathan10a.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+### 2009
 
 - **A Linear-time Graph Kernel (ICDM 2009)**
   - Shohei Hido and Hisashi Kashima
@@ -140,6 +144,8 @@
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
   - [[Python Reference]](https://github.com/deeplego/wl-graph-kernels)
   - [[C++ Reference]](https://github.com/BorgwardtLab/graph-kernels)
+  
+### 2007
   
 - **Kernel on Bag of Paths For Measuring Similarity of Shapes (ESANN 2007)**
   - Frederic Suard, Alain Rakotomamonjy, and Abdelaziz Bensrhair
