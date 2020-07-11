@@ -330,22 +330,22 @@
   
 ### 2016
 
-- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
-  - Stephen Bonner, John Brennan, Georgios Theodoropoulos, Ibad Kureshi, Andrew Stephen McGough
-  - [[Paper]](https://ieeexplore.ieee.org/document/7840988/)
-  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
-
-- **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
-  - Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov
-  - [[Paper]](https://arxiv.org/abs/1605.05273)
-  - [[Python Reference]](https://github.com/tvayer/PSCN)
-
 - **Gated Graph Sequence Neural Networks (ICLR 2016)**
   - Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
   - [[Paper]](https://arxiv.org/abs/1511.05493)
   - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
   - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
   - [[Python Reference]](https://github.com/YunjaeChoi/ggnnmols)
+  
+- **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
+  - Mathias Niepert, Mohamed Ahmed, Konstantin Kutzkov
+  - [[Paper]](https://arxiv.org/abs/1605.05273)
+  - [[Python Reference]](https://github.com/tvayer/PSCN)
+
+- **Deep Topology Classification: A New Approach For Massive Graph Classification (IEEE Big Data 2016)**
+  - Stephen Bonner, John Brennan, Georgios Theodoropoulos, Ibad Kureshi, Andrew Stephen McGough
+  - [[Paper]](https://ieeexplore.ieee.org/document/7840988/)
+  - [[Python Reference]](https://github.com/sbonner0/DeepTopologyClassification)
 
 - **Convolutional Networks on Graphs for Learning Molecular Fingerprints (NIPS 2015)**
   - David Duvenaud, Dougal Maclaurin, Jorge Aguilera-Iparraguirre, Rafael Gómez-Bombarelli, Timothy Hirzel, Alán Aspuru-Guzik, and Ryan P. Adams
