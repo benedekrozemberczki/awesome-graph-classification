@@ -1,4 +1,8 @@
 ## Deep Learning
+- **Mutual Information Maximization in Graph Neural Networks (IJCNN 2020)**
+  - Xinhan Di, Pengqian Yu, Rui Bu, Mingchao Sun
+  - [[Paper]](https://arxiv.org/abs/1905.08509v4)
+  - [[Python Reference]](https://github.com/CODE-SUBMIT/Graph_Neighborhood_1)
 
 - **Benchmarking Graph Neural Networks (ArXiv 2020)**
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
