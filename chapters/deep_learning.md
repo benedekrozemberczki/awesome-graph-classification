@@ -84,6 +84,11 @@
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
   - [[Paper]](https://arxiv.org/abs/1905.13192)
   - [[Python Reference]](https://github.com/KangchengHou/gntk)
+  
+- **Provably Powerful Graph Networks (NeurIPS 2019)**
+  - Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman
+  - [[Paper]](https://arxiv.org/abs/1905.11136v4)
+  - [[Python Reference]](https://github.com/hadarser/ProvablyPowerfulGraphNetworks_torch)
 
 - **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
   - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
