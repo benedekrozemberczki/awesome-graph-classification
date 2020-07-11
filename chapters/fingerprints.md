@@ -53,6 +53,8 @@
   - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz
   - [[Paper]](https://ieeexplore.ieee.org/document/7302040)
   - [[Java Reference]](https://github.com/shiruipan/MTG)
+  
+### 2012
 
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, and Christos Faloutsos
