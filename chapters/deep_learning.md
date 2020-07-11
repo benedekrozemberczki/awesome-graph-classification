@@ -1,4 +1,5 @@
 ## Deep Learning
+### 2020
 - **Mutual Information Maximization in Graph Neural Networks (IJCNN 2020)**
   - Xinhan Di, Pengqian Yu, Rui Bu, Mingchao Sun
   - [[Paper]](https://arxiv.org/abs/1905.08509v4)
