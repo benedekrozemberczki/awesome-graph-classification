@@ -189,16 +189,15 @@
   - [[Python Reference]](https://github.com/shikorab/SceneGraph)
   
 ### 2018
-  
-- **Fast and Accurate Molecular Property Prediction: Learning Atomic Interactions and Potentials with Neural Networks (The Journal of Physical Chemistry Letters 2018)**
-  - Masashi Tsubaki and Teruyasu Mizoguchi
-  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01837)
-  - [[Python Reference]](https://github.com/masashitsubaki/molecularGNN_3Dstructure)
-  
-- **Machine Learning for Organic Cage Property Prediction (Chemical Matters 2018)**
-  - Lukas Turcani, Rebecca Greenway, Kim Jelfs
-  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03572)
-  - [[Python Reference]](https://github.com/qyuan7/Graph_Convolutional_Network_for_cages)
+
+- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
+  - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen
+  - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
+  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
+  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  - [[MATLAB Reference]](https://github.com/muhanzhang/DGCNN)
+  - [[Python Alternative]](https://github.com/leftthomas/DGCNN)
+  - [[Python Alternative]](https://github.com/hitlic/DGCNN-tensorflow)
   
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (Arxiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
@@ -209,11 +208,68 @@
   - Yu Jin and Joseph F. JaJa
   - [[Paper]](https://arxiv.org/pdf/1805.07683v4.pdf)
   - [[Python Reference]](https://github.com/yuj-umd/graphRNN)
+  
+- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (ArXiv 2018)**
+  - Seongok Ryu, Jaechang Lim, and Woo Youn Kim    
+  - [[Paper]](https://arxiv.org/abs/1805.10988)
+  - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
+
+- **Edge Attention-based Multi-Relational Graph Convolutional Networks (ArXiv 2018)**
+  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi and Jinbo Bi  
+  - [[Paper]](https://arxiv.org/abs/1802.04944v1)
+  - [[Python Reference]](https://github.com/Luckick/EAGCN)
+
+- **Compound-Protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
+  - Masashi Tsubaki, Kentaro Tomii, and Jun Sese
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
+  - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
+  - [[Python Reference]](https://github.com/masashitsubaki/GNN_molecules)
+  - [[Python Alternative ]](https://github.com/xnuohz/GCNDTI)
+  
+- **Machine Learning for Organic Cage Property Prediction (Chemical Matters 2018)**
+  - Lukas Turcani, Rebecca Greenway, Kim Jelfs
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03572)
+  - [[Python Reference]](https://github.com/qyuan7/Graph_Convolutional_Network_for_cages)
+
+- **Kernel Graph Convolutional Neural Networks (ICANN 2018)**
+  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+
+- **Residual Gated Graph ConvNets (ICLR 2018)**
+  - Xavier Bresson and Thomas Laurent
+  - [[Paper]](https://arxiv.org/pdf/1711.07553v2.pdf)
+  - [[Python Pytorch Reference]](https://github.com/xbresson/spatial_graph_convnets)
+  
+- **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
+  - Davide Bacciu, Federico Errica, and Alessio Micheli
+  - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
+  - [[Python Reference]](https://github.com/diningphil/CGMM)
+
+- **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
+  - Nicola De Cao and Thomas Kipf
+  - [[Paper]](https://arxiv.org/pdf/1805.11973.pdf)
+  - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
 
 - **Graph Capsule Convolutional Neural Networks (ICML 2018)**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://arxiv.org/abs/1805.08090)
   - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
+
+- **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
+  - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8545310)
+  - [[Python Reference]](https://github.com/priba/siamese_ged)
+
+- **Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI-ECAI 2018)**
+  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu and Xiaoyan Zhu
+  - [[Paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
+  - [[Python Reference]](https://github.com/tuxchow/ccm)
+
+- **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
+  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
+  - [[Paper]](https://arxiv.org/abs/1807.02839)
+  - [[Python Reference]](http://mott.in/publications/others/sgr/)
 
 - **Graph Classification Using Structural Attention (KDD 2018)**
   - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
@@ -229,71 +285,15 @@
   - Zhitao Ying, Jiaxuan You, Christopher Morris, Xiang Ren, Will Hamilton and Jure Leskovec
   - [[Paper]](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
   - [[Python Reference]](https://github.com/rusty1s/pytorch_geometric)
-
-- **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
-  - Davide Bacciu, Federico Errica, and Alessio Micheli
-  - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
-  - [[Python Reference]](https://github.com/diningphil/CGMM)
-
-- **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
-  - Nicola De Cao and Thomas Kipf
-  - [[Paper]](https://arxiv.org/pdf/1805.11973.pdf)
-  - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
-
-- **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (2018)**
-  - Seongok Ryu, Jaechang Lim, and Woo Youn Kim    
-  - [[Paper]](https://arxiv.org/abs/1805.10988)
-  - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
-
-- **Compound-Protein Interaction Prediction with End-to-end Learning of Neural Networks for Graphs and Sequences (Bioinformatics 2018)**
-  - Masashi Tsubaki, Kentaro Tomii, and Jun Sese
-  - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
-  - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
-  - [[Python Reference]](https://github.com/masashitsubaki/GNN_molecules)
-  - [[Python Alternative ]](https://github.com/xnuohz/GCNDTI)
-
-- **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
-  - Pau Riba, Andreas Fischer, Josep Llados, and Alicia Fornes
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8545310)
-  - [[Python Reference]](https://github.com/priba/siamese_ged)
-
-- **Edge Attention-based Multi-Relational Graph Convolutional Networks (2018)**
-  - Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi and Jinbo Bi  
-  - [[Paper]](https://arxiv.org/abs/1802.04944v1)
-  - [[Python Reference]](https://github.com/Luckick/EAGCN)
-
-- **Commonsense Knowledge Aware Conversation Generation with Graph Attention (IJCAI-ECAI 2018)**
-  - Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu and Xiaoyan Zhu
-  - [[Paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)
-  - [[Python Reference]](https://github.com/tuxchow/ccm)
-
-- **Residual Gated Graph ConvNets (ICLR 2018)**
-  - Xavier Bresson and Thomas Laurent
-  - [[Paper]](https://arxiv.org/pdf/1711.07553v2.pdf)
-  - [[Python Pytorch Reference]](https://github.com/xbresson/spatial_graph_convnets)
-
-- **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
-  - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen
-  - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
-  - [[Python Tensorflow Reference]](https://github.com/muhanzhang/DGCNN)    
-  - [[Python Pytorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
-  - [[MATLAB Reference]](https://github.com/muhanzhang/DGCNN)
-  - [[Python Alternative]](https://github.com/leftthomas/DGCNN)
-  - [[Python Alternative]](https://github.com/hitlic/DGCNN-tensorflow)
-
-- **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
-  - Anton Tsitsulin, Davide Mottin, Panagiotis Karra, Alex Bronstein and Emmanueal Müller
-  - [[Paper]](https://arxiv.org/abs/1807.02839)
-  - [[Python Reference]](http://mott.in/publications/others/sgr/)
-
-- **Kernel Graph Convolutional Neural Networks (ICANN 2018)**
-  - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
-  - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
+  
+- **Fast and Accurate Molecular Property Prediction: Learning Atomic Interactions and Potentials with Neural Networks (The Journal of Physical Chemistry Letters 2018)**
+  - Masashi Tsubaki and Teruyasu Mizoguchi
+  - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01837)
+  - [[Python Reference]](https://github.com/masashitsubaki/molecularGNN_3Dstructure)
   
 ### 2017
 
-- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (arXiv 2017)**
+- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (ArXiv 2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
