@@ -22,22 +22,22 @@
 
 ### 2018
 
-- **NetLSD (KDD 2018)**
+- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy 2018)**
+  - Zixuan Zhu and Yuhai Zhao
+  - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
+  - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
+
+- **NetLSD: Hearing the Shape of a Graph (KDD 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
   - [[Paper]](https://arxiv.org/abs/1805.10712)
-  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
+  - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
 
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning NIPS 2018)**
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
-
-- **Multi-Graph Multi-Label Learning Based on Entropy (Entropy 2018)**
-  - Zixuan Zhu and Yuhai Zhao
-  - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
-  - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
   
 ### 2017
 
