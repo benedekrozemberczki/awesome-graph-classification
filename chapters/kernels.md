@@ -145,6 +145,8 @@
   - Frederic Suard, Alain Rakotomamonjy, and Abdelaziz Bensrhair
   - [[Paper]](https://pdfs.semanticscholar.org/149a/858889e8c3a54ee55b21511a7f56f5e9650b.pdf)
   - [[Python Reference]](https://github.com/jajupmochi/py-graph)
+  
+### 2005
 
 - **Fast Computation of Graph Kernels (NIPS 2006)**
   - S. V. N. Vishwanathan, Karsten M. Borgwardt, and Nicol N. Schraudolph
