@@ -20,6 +20,8 @@
   - [[Paper]](https://arxiv.org/abs/1811.03508)
   - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
 
+### 2018
+
 - **NetLSD (KDD 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
   - [[Paper]](https://arxiv.org/abs/1805.10712)
@@ -36,12 +38,16 @@
   - Zixuan Zhu and Yuhai Zhao
   - [[Paper]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning/blob/master/entropy-20-00245.pdf)
   - [[Python Reference]](https://github.com/TonyZZX/MultiGraph_MultiLabel_Learning)
+  
+### 2017
 
 - **Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs (NIPS 2017)**
   - Saurabh Verma and Zhi-Li Zhang
   - [[Paper]](https://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs.pdf)
   - [[Matlab Reference]](https://github.com/vermaMachineLearning/FGSD)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
+  
+### 2015
 
 - **Joint Structure Feature Exploration and Regularization for Multi-Task Graph Classification (TKDE 2015)**
   - Shirui Pan, Jia Wu, Xingquan Zhuy, Chengqi Zhang, and Philip S. Yuz
