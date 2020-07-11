@@ -1,5 +1,7 @@
 ## Spectral and Statistical Fingerprints
 
+### 2020
+
 - **Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models (AXiv 2020)**
   - Benedek Rozemberczki and Rik Sarkar
   - [[Paper]](https://arxiv.org/abs/2005.07959)
@@ -10,6 +12,8 @@
   - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
   - [[Paper]](https://arxiv.org/abs/2003.01282)
   - [[Python Reference]](https://github.com/google-research/google-research/tree/master/graph_embedding/slaq)
+  
+### 2019
 
 - **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
   - Chen Cai, Yusu Wang
