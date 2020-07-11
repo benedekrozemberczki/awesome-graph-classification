@@ -323,7 +323,7 @@
   - [[Paper]](https://arxiv.org/pdf/1705.07664v2.pdf)
   - [[Python Reference]](https://github.com/fmonti/CayleyNet)
 
-- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (2017)**
+- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (arXiv 2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
   - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
