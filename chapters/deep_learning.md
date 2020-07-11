@@ -293,40 +293,40 @@
   
 ### 2017
 
-- **Deep Learning with Topological Signatures (NIPS 2017)**
-  - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
-  - [[paper]](https://arxiv.org/abs/1707.04041)
-  - [[Python Reference]](https://github.com/c-hofer/nips2017)
-
+- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (arXiv 2017)**
+  - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
+  - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
+  - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
+  
 - **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs (CVPR 2017)**
   - Martin Simonovsky and Nikos Komodakis
   - [[paper]](https://arxiv.org/pdf/1704.02901v3.pdf)
   - [[Python Reference]](https://github.com/mys007/ecc)
-
+  
+- **Graph Classification with 2D Convolutional Neural Networks (ICANN 2019)**
+  - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/abs/1708.02218)
+  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
+  
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
   - Tao Lei, Wengong Jin, Regina Barzilay, and Tommi Jaakkola
   - [[Paper]](https://arxiv.org/abs/1705.09037)
   - [[Python Reference]](https://github.com/taolei87/icml17_knn)
 
-- **Protein Interface Prediction using Graph Convolutional Networks (NIPS 2017)**
-  - Alex Fout, Jonathon Byrd, Basir Shariat and Asa Ben-Hur
-  - [[Paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
-  - [[Python Reference]](https://github.com/fouticus/pipgcn)
-
-- **Graph Classification with 2D Convolutional Neural Networks (ICANN 2019)**
-  - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/abs/1708.02218)
-  - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
-
 - **CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters (IEEE TSP 2017)**
   - Ron Levie, Federico Monti, Xavier Bresson, Michael M. Bronstein
   - [[Paper]](https://arxiv.org/pdf/1705.07664v2.pdf)
   - [[Python Reference]](https://github.com/fmonti/CayleyNet)
+  
+- **Deep Learning with Topological Signatures (NIPS 2017)**
+  - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
+  - [[paper]](https://arxiv.org/abs/1707.04041)
+  - [[Python Reference]](https://github.com/c-hofer/nips2017)
 
-- **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (arXiv 2017)**
-  - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
-  - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
-  - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
+- **Protein Interface Prediction using Graph Convolutional Networks (NIPS 2017)**
+  - Alex Fout, Jonathon Byrd, Basir Shariat and Asa Ben-Hur
+  - [[Paper]](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks)
+  - [[Python Reference]](https://github.com/fouticus/pipgcn)
   
 ### 2016
 
