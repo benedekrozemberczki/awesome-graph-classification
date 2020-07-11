@@ -36,7 +36,7 @@
   
 - **Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor (JMLR 2017)**
   - Giannis Nikolentzos, Polykarpos Meladianos, and Michalis Vazirgiannis
-  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14494)
+  - [[Paper]](https://dl.acm.org/doi/abs/10.5555/3122009.3242046)
   - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
 
 - **Matching Node Embeddings for Graph Similarity (AAAI 2017)**
