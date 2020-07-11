@@ -1,23 +1,11 @@
 ## Graph Kernels
-- **DDGK: Learning Graph Representations for Deep Divergence Graph Kernels (WWW 2020)**
-  -  Rami Al-Rfou, Dustin Zelle, Bryan Perozzi
-  - [[Paper]](https://arxiv.org/abs/1904.09671v1)
-  - [[Code]](https://github.com/google-research/google-research/tree/master/graph_embedding/ddgk)
+
+### 2019
 
 - **Distribution of Node Embeddings as Multiresolution Features for Graphs (ICDM 2019)**
   - Mark Heimann, Tara Safavi, and Danai Koutra
   - [[Paper]](https://gemslab.github.io/papers/heimann-2019-RGM.pdf)
   - [[Code]](https://github.com/GemsLab/RGM)
-  
-- **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
-  - Matteo Togninalli, Elisabetta Ghisu, Felipe Llinares-López, Bastian Rieck, and Karsten Borgwardt
-  - [[Paper]](http://papers.nips.cc/paper/8872-wasserstein-weisfeiler-lehman-graph-kernels)
-  - [[Code]](https://github.com/BorgwardtLab/WWL)
-  
-- **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
-  - Qi Zhao, Yusu Wang
-  - [[Paper]](https://arxiv.org/abs/1904.12189)
-  - [[Code]](https://github.com/topology474/WKPI)
 
 - **Optimal Transport for Structured Data with Application on Graphs (ICML 2019)**
   - Vayer Titouan, Nicolas Courty, Romain Tavenard, Chapel Laetitia, Rémi Flamary
@@ -29,10 +17,25 @@
   - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
   - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
   
+- **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
+  - Matteo Togninalli, Elisabetta Ghisu, Felipe Llinares-López, Bastian Rieck, and Karsten Borgwardt
+  - [[Paper]](http://papers.nips.cc/paper/8872-wasserstein-weisfeiler-lehman-graph-kernels)
+  - [[Code]](https://github.com/BorgwardtLab/WWL)
+  
+- **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
+  - Qi Zhao, Yusu Wang
+  - [[Paper]](https://arxiv.org/abs/1904.12189)
+  - [[Code]](https://github.com/topology474/WKPI)
+  
 - **Propagation Kernels: Efficient Graph Kernels from Propagated Information (Machine Learning 2019)**
   - Marion Neumann, Roman Garnett, Christian Bauckhage, Kristian Kersting
   - [[Paper]](https://link.springer.com/article/10.1007/s10994-015-5517-9)
   - [[Matlab Reference]](https://github.com/marionmari/propagation_kernels)
+  
+- **DDGK: Learning Graph Representations for Deep Divergence Graph Kernels (WWW 2019)**
+  -  Rami Al-Rfou, Dustin Zelle, Bryan Perozzi
+  - [[Paper]](https://arxiv.org/abs/1904.09671v1)
+  - [[Code]](https://github.com/google-research/google-research/tree/master/graph_embedding/ddgk)
   
 ### 2018
 
