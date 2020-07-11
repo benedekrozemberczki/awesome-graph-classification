@@ -18,6 +18,11 @@
   - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
   - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
   - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
+  
+- **Propagation Kernels: Efficient Graph Kernels from Propagated Information (Machine Learning 2019)**
+  - Sebastian Rieck, Christian Bock, and Karsten Borgwardt
+  - [[Paper]](http://proceedings.mlr.press/v97/rieck19a/rieck19a.pdf)
+  - [[Python Reference]](https://github.com/BorgwardtLab/P-WL)
 
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
