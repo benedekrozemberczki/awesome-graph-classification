@@ -60,6 +60,11 @@
   - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
   - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
   - [[Python Reference]](https://github.com/alge24/eigenpooling)
+  
+- **Graph U-Nets (ICML 2019)**
+  - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
+  - [[Paper]](https://arxiv.org/abs/1905.05178v1f)
+  - [[Python Reference]](https://github.com/HongyangGao/Graph-U-Nets)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
