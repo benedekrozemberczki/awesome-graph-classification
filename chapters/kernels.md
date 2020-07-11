@@ -12,7 +12,7 @@
 - **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
   - Matteo Togninalli, Elisabetta Ghisu, Felipe Llinares-López, Bastian Rieck, and Karsten Borgwardt
   - [[Paper]](http://papers.nips.cc/paper/8872-wasserstein-weisfeiler-lehman-graph-kernels)
-  - [[Code]](https://github.com/topology474/WKPI)
+  - [[Code]](https://github.com/BorgwardtLab/WWL)
   
 - **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
   - Qi Zhao, Yusu Wang
