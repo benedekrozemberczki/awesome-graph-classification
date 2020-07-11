@@ -9,6 +9,11 @@
   - [[Paper]](https://gemslab.github.io/papers/heimann-2019-RGM.pdf)
   - [[Code]](https://github.com/GemsLab/RGM)
   
+- **Wasserstein Weisfeiler-Lehman Graph Kernels (NIPS 2019)**
+  - Qi Zhao, Yusu Wang
+  - [[Paper]](https://arxiv.org/abs/1904.12189)
+  - [[Code]](https://github.com/topology474/WKPI)
+  
 - **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NIPS 2019)**
   - Qi Zhao, Yusu Wang
   - [[Paper]](https://arxiv.org/abs/1904.12189)
