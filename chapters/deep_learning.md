@@ -102,6 +102,11 @@
   - Fengwen Chen, Shirui Pan, Jing Jiang, Huan Huo, Guodong Long
   - [[Paper]](https://arxiv.org/abs/1904.02278v1)
   - [[Python Reference]](https://github.com/dawenzi123/DAGCN)
+    
+- **Understanding Isomorphism Bias in Graph Data Sets (Arxiv 2019)**
+  - Sergei Ivanov, Sergei Sviridov, Evgeny Burnaev
+  - [[Paper]](https://arxiv.org/abs/1910.12091v2)
+  - [[Python Reference]](https://github.com/nd7141/iso_bias)
   
 - **HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction (Arxiv 2019)**
   - Raehyun Kim, Chan Ho So, Minbyul Jeong, Sanghoon Lee, Jinkyu Kim, Jaewoo Kang
