@@ -1,10 +1,10 @@
 ## Deep Learning
 ### 2020
-
-- **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (AAAI 2020)**
-  - Michael Withnall, Edvard Lindelöf, Ola Engkvist, Hongming Chen
-  - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
-  - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
+  
+- **ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations (AAAI 2020)**
+  - Ekagra Ranjan, Soumya Sanyal, Partha Pratim Talukdar
+  - [[Paper]](https://arxiv.org/abs/1911.07979)
+  - [[Python Reference]](https://github.com/malllabiisc/ASAP)
   
 - **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (ArXiV 2020)**
   - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gauzere, Sebastien Adam, Paul Honeine
@@ -15,6 +15,11 @@
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
   - [[Paper]](https://arxiv.org/abs/2003.00982)
   - [[Python Reference]](https://github.com/graphdeeplearning/benchmarking-gnns)
+
+- **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (BiorXiv 2020)**
+  - Michael Withnall, Edvard Lindelöf, Ola Engkvist, Hongming Chen
+  - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
+  - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
   
 - **Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport (ICLR 2020)**
   - Tengfei Ma, Jie Chen
