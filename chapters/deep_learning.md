@@ -26,6 +26,11 @@
   - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
   - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
   
+- **Second-Order Pooling for Graph Neural Networks (IEEE Transactions on Pattern Analysis and Machine Intelligence 2020)**
+  - Zhengyang Wang, Shuiwang Ji 
+  - [[Paper]](https://ieeexplore.ieee.org/document/9104936)
+  - [[Python Reference]](https://github.com/zhengyang-wang/sopool-gnns)
+  
 - **Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport (ICLR 2020)**
   - Tengfei Ma, Jie Chen
   - [[Paper]](https://arxiv.org/abs/1912.11176v1)
