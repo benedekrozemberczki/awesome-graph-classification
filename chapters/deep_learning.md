@@ -65,7 +65,12 @@
   - Dexiong Chen, Laurent Jacob, Julien Mairal
   - [[Paper]](https://arxiv.org/abs/2003.05189v2)
   - [[Python Reference]](https://github.com/claying/GCKN)
-  
+
+- **Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation (IJCAI 2020)**
+  - Shuo Zhang, Lei Xie
+  - [[Paper]](https://arxiv.org/abs/1907.02204)
+  - [[Python Reference]](https://github.com/zetayue/CPA)
+
 - **Mutual Information Maximization in Graph Neural Networks (IJCNN 2020)**
   - Xinhan Di, Pengqian Yu, Rui Bu, Mingchao Sun
   - [[Paper]](https://arxiv.org/abs/1905.08509v4)
