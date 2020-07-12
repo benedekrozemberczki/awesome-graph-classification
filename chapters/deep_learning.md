@@ -92,11 +92,16 @@
   - Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, and Martin Grohe
   - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
   - [[Python Reference]](https://github.com/k-gnn/k-gnn)
-
+  
 - **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
   - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
   - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
+
+- **Universal Self-Attention Network for Graph Classification (Arxiv 2019)**
+  - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phung}
+  - [[Paper]](https://arxiv.org/abs/1909.11855)
+  - [[Python Reference]](https://github.com/daiquocnguyen/Graph-Transformer)
   
 - **Discriminative Structural Graph Classification (ArXiV 2019)**
   - Younjoo Seo, Andreas Loukas, Nathanaël Perraudin
