@@ -6,6 +6,11 @@
   - [[Paper]](https://arxiv.org/abs/1911.07979)
   - [[Python Reference]](https://github.com/malllabiisc/ASAP)
   
+- **PersLay: A Neural Network Layer for Persistence Diagrams and New Graph Topological Signatures (AISTATS 2020)**
+  - Mathieu Carriere, Frederic Chazal, Yuichi Ike, Theo Lacombe, Martin Royer, Yuhei Umeda
+  - [[Paper]](http://proceedings.mlr.press/v108/carriere20a.html)
+  - [[Python Reference]](https://github.com/MathieuCarriere/perslay)
+  
 - **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (ArXiV 2020)**
   - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gauzere, Sebastien Adam, Paul Honeine
   - [[Paper]](https://arxiv.org/abs/2003.11702)
