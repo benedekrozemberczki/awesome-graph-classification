@@ -158,6 +158,11 @@
   - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://128.84.21.199/pdf/1905.13686.pdf)
   - [[Python Reference]](https://github.com/gn-exp/gn-exp)
+  
+- **Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity (IJCAI 2019)**
+  - Yunsheng Bai, Hao Ding, Yang Qiao, Agustin Marinovic, Ken Gu, Ting Chen, Yizhou Sun, Wei Wang
+  - [[Paper]](https://arxiv.org/abs/1904.01098v2)
+  - [[Python Reference]](https://github.com/yunshengb/UGraphEmb)
 
 - **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
   - Xiaofeng Wang, Zhen Li, Mingjian Jiang, Shuang Wang, Shugang Zhang, Zhiqiang Wei
