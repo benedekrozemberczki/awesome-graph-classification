@@ -117,7 +117,12 @@
   - Sergei Ivanov, Sergei Sviridov, Evgeny Burnaev
   - [[Paper]](https://arxiv.org/abs/1910.12091v2)
   - [[Python Reference]](https://github.com/nd7141/iso_bias)
-  
+
+- **Graph Star Net for Generalized Multi-Task Learning (Arxiv 2019)**
+  - Lu Haonan, Seth H. Huang, Tian Ye, Guo Xiuyan
+  - [[Paper]](https://arxiv.org/abs/1906.12330v1)
+  - [[Python Reference]](https://github.com/graph-star-team/graph_star)
+
 - **HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction (Arxiv 2019)**
   - Raehyun Kim, Chan Ho So, Minbyul Jeong, Sanghoon Lee, Jinkyu Kim, Jaewoo Kang
   - [[Paper]](https://arxiv.org/abs/1908.07999v3)
