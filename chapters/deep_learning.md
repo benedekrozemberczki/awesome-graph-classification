@@ -15,6 +15,11 @@
   - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gauzere, Sebastien Adam, Paul Honeine
   - [[Paper]](https://arxiv.org/abs/2003.11702)
   - [[Python Reference]](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
+  
+- **Deep Graph Mapper: Seeing Graphs through the Neural Lens (ArXiV 2020)**
+  - Cristian Bodnar, Cătălina Cangea, Pietro Liò
+  - [[Paper]](https://arxiv.org/abs/2002.03864v2)
+  - [[Python Reference]](https://github.com/crisbodnar/dgm)
 
 - **Benchmarking Graph Neural Networks (ArXiv 2020)**
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
