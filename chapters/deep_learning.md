@@ -103,6 +103,11 @@
   - [[Paper]](https://arxiv.org/abs/1908.07999v3)
   - [[Python Reference]](https://github.com/dmis-lab/hats)
   
+- **Spectral Clustering with Graph Neural Networks for Graph Pooling (Arxiv 2019)**
+  - Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi
+  - [[Paper]](https://arxiv.org/abs/1907.00481v3)
+  - [[Python Reference]](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification)
+  
 - **Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling (Arxiv 2019)**
   - Filippo Maria Bianchi, Daniele Grattarola, Lorenzo Livi, Cesare Alippi
   - [[Paper]](https://arxiv.org/abs/1910.11436v1)
