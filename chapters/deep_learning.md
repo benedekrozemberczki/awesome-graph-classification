@@ -51,6 +51,11 @@
   - [[Paper]](https://openreview.net/pdf?id=r1lfF2NYvH)
   - [[Python Reference]](https://github.com/fanyun-sun/InfoGraph)
   
+- **Convolutional Kernel Networks for Graph-Structured Data (ICML 2020)**
+  - Dexiong Chen, Laurent Jacob, Julien Mairal
+  - [[Paper]](https://arxiv.org/abs/2003.05189v2)
+  - [[Python Reference]](https://github.com/claying/GCKN)
+  
 - **Mutual Information Maximization in Graph Neural Networks (IJCNN 2020)**
   - Xinhan Di, Pengqian Yu, Rui Bu, Mingchao Sun
   - [[Paper]](https://arxiv.org/abs/1905.08509v4)
