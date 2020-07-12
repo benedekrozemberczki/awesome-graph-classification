@@ -183,6 +183,11 @@
   - Ting Chen, Song Bian, Yizhou Sun
   - [[Paper]](https://arxiv.org/abs/1905.04579)
   - [[Python Reference]](https://github.com/Waterpine/vis_network)
+  
+- **K-hop Graph Neural Networks (Arxiv 2019)**
+  - Giannis Nikolentzos, George Dasoulas, Michalis Vazirgiannis
+  - [[Paper]](https://arxiv.org/abs/1907.06051v1)
+  - [[Python Reference]](https://github.com/giannisnik/k-hop-gnns)
 
 - **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
   - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
@@ -258,6 +263,11 @@
   - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
   - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
   - [[Python Reference]](https://github.com/alge24/eigenpooling)
+  
+- **Distance Metric Learning for Graph Structured Data (KDD 2019)**
+  - Tomoki Yoshida, Ichiro Takeuchi, Masayuki Karasuyama
+  - [[Paper]](https://arxiv.org/abs/2002.00727v1)
+  - [[Python Reference]](https://github.com/birdwatcherYT/Learning-Interpretable-Metric-between-Graphs)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
