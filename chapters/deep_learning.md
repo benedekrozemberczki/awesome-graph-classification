@@ -98,6 +98,11 @@
   - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
   - [[Python Reference]](https://github.com/k-gnn/k-gnn)
   
+- **DAGCN: Dual Attention Graph Convolutional Networks (ACPR 2019)**
+  - Fengwen Chen, Shirui Pan, Jing Jiang, Huan Huo, Guodong Long
+  - [[Paper]](https://arxiv.org/abs/1904.02278v1)
+  - [[Python Reference]](https://github.com/dawenzi123/DAGCN)
+  
 - **HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction (Arxiv 2019)**
   - Raehyun Kim, Chan Ho So, Minbyul Jeong, Sanghoon Lee, Jinkyu Kim, Jaewoo Kang
   - [[Paper]](https://arxiv.org/abs/1908.07999v3)
