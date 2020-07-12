@@ -128,6 +128,11 @@
   - Edouard Pineau, Nathan de Lara
   - [[Paper]](https://arxiv.org/abs/1902.02721v4)
   - [[Python Reference]](https://github.com/edouardpineau/Variational-Recurrent-Neural-Networks-for-Graph-Classification)
+  
+- **edGNN: a Simple and Powerful GNN for Directed Labeled Graphs (ICLR RLGM 2019)**
+  - Guillaume Jaume, An-phi Nguyen, María Rodríguez Martínez, Jean-Philippe Thiran, Maria Gabrani
+  - [[Paper]](https://arxiv.org/abs/1904.08745v2)
+  - [[Python Reference]](https://github.com/guillaumejaume/edGNN)
 
 - **Capsule Graph Neural Network (ICLR 2019)**
   - Zhang Xinyi and Lihui Chen
