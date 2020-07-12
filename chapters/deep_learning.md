@@ -6,10 +6,10 @@
   - [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0407-y)
   - [[Python Reference]](https://github.com/edvardlindelof/graph-neural-networks-for-drug-discovery)
   
-- **Convolutional Kernel Networks for Graph-Structured Data (ArXiV 2020)**
-  - Dexiong Chen, Laurent Jacob, Julien Mairal
-  - [[Paper]](https://arxiv.org/abs/2003.05189)
-  - [[Python Reference]](https://github.com/claying/GCKN)
+- **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (ArXiV 2020)**
+  - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gauzere, Sebastien Adam, Paul Honeine
+  - [[Paper]](https://arxiv.org/abs/2003.11702)
+  - [[Python Reference]](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
 
 - **Benchmarking Graph Neural Networks (ArXiv 2020)**
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
