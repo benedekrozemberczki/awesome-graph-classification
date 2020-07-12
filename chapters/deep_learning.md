@@ -163,6 +163,11 @@
   - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
   - [[Paper]](https://arxiv.org/abs/1903.02541)
   - [[Python Reference]](https://github.com/PurdueMINDS/RelationalPooling)
+  
+- **IPC: A Benchmark Data Set for Learning with Graph-Structured Data (ICML LRGSD 2019)**
+  - Patrick Ferber, Tengfei Ma, Siyu Huo, Jie Chen, Michael Katz
+  - [[Paper]](https://arxiv.org/abs/1905.06393)
+  - [[Python Reference]](https://github.com/IBM/IPC-graph-data)
 
 - **Ego-CNN: Distributed, Egocentric Representations of Graphs for Detecting Critical Structure (ICML 2019)**
   - Ruo-Chun Tzeng, Shan-Hung Wu
