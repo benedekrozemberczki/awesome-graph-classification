@@ -11,12 +11,17 @@
   - [[Paper]](http://proceedings.mlr.press/v108/carriere20a.html)
   - [[Python Reference]](https://github.com/MathieuCarriere/perslay)
   
-- **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (ArXiV 2020)**
+- **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (ArXiv 2020)**
   - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gauzere, Sebastien Adam, Paul Honeine
   - [[Paper]](https://arxiv.org/abs/2003.11702)
   - [[Python Reference]](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
   
-- **Deep Graph Mapper: Seeing Graphs through the Neural Lens (ArXiV 2020)**
+- **Segmented Graph-Bert for Graph Instance Modeling (ArXiv 2020)**
+  - Jiawei Zhang
+  - [[Paper]](https://arxiv.org/abs/2002.03283)
+  - [[Python Reference]](https://github.com/jwzhanggy/SEG-BERT)
+  
+- **Deep Graph Mapper: Seeing Graphs through the Neural Lens (ArXiv 2020)**
   - Cristian Bodnar, Cătălina Cangea, Pietro Liò
   - [[Paper]](https://arxiv.org/abs/2002.03864v2)
   - [[Python Reference]](https://github.com/crisbodnar/dgm)
