@@ -117,7 +117,12 @@
 - **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
   - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
   - [[Paper]](https://arxiv.org/abs/1904.04238)
-  - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019) 
+  - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019)
+  
+- **AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism (ICCV 2019)**
+  - Jingjia Huang, Zhangheng Li, Nannan Li, Shan Liu, Ge Li
+  - [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Huang_AttPool_Towards_Hierarchical_Feature_Representation_in_Graph_Convolutional_Networks_via_ICCV_2019_paper.html)
+  - [[Python Reference]](https://github.com/hjjpku/Attention_in_Graph) 
 
 - **Variational Recurrent Neural Networks for Graph Classification (ICLR RLGM 2019)**
   - Edouard Pineau, Nathan de Lara
