@@ -97,6 +97,11 @@
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
   - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
   - [[Python Reference]](https://github.com/BraintreeLtd/PatchyCapsules)
+  
+- **Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification (Arxiv 2019)**
+  - Ting Chen, Song Bian, Yizhou Sun
+  - [[Paper]](https://arxiv.org/abs/1905.04579v3)
+  - [[Python Reference]](https://github.com/chentingpc/gfn)
 
 - **Universal Self-Attention Network for Graph Classification (Arxiv 2019)**
   - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phung}
