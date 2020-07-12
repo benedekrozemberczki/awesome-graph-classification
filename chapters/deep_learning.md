@@ -98,6 +98,16 @@
   - [[Paper]](https://arxiv.org/pdf/1810.02244v2.pdf)
   - [[Python Reference]](https://github.com/k-gnn/k-gnn)
   
+- **HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction (Arxiv 2019)**
+  - Raehyun Kim, Chan Ho So, Minbyul Jeong, Sanghoon Lee, Jinkyu Kim, Jaewoo Kang
+  - [[Paper]](https://arxiv.org/abs/1908.07999v3)
+  - [[Python Reference]](https://github.com/dmis-lab/hats)
+  
+- **Hierarchical Representation Learning in Graph Neural Networks with Node Decimation Pooling (Arxiv 2019)**
+  - Filippo Maria Bianchi, Daniele Grattarola, Lorenzo Livi, Cesare Alippi
+  - [[Paper]](https://arxiv.org/abs/1910.11436v1)
+  - [[Python Reference]](https://github.com/danielegrattarola/decimation-pooling)
+  
 - **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations (Arxiv 2019)**
   - Marcelo Daniel Gutierrez Mallea, Peter Meltzer, and Peter J Bentley
   - [[Paper]](https://arxiv.org/pdf/1902.08399v1.pdf)
