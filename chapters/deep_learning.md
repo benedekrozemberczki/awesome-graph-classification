@@ -103,6 +103,11 @@
   - [[Paper]](https://arxiv.org/abs/1905.13422)
   - [[Python Reference]](https://github.com/youngjoo-epfl/DSGC)
   
+- **Symmetrical Graph Neural Network for Quantum Chemistry, with Dual R/K Space (ArXiV 2019)**
+  - Shuqian Ye, Jiechun Liang, Rulin Liu, Xi Zhu
+  - [[Paper]](https://arxiv.org/abs/1912.07256)
+  - [[Python Reference]](https://github.com/yippp/SY-GNN)
+  
 - **Graph Classification with Automatic Topologically-Oriented Learning (ArXiV 2019)**
   - Martin Royer, Frédéric Chazal, Clément Levrard, Yuichi Ike, Yuhei Umeda
   - [[Paper]](https://arxiv.org/pdf/1909.13472.pdf)
