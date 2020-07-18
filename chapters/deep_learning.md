@@ -1,5 +1,10 @@
 ## Deep Learning
 ### 2020
+
+- **Principal Neighbourhood Aggregation for Graph Nets (ArXiV 2020)**
+  - Gabriele Corso, Luca Cavalleri, Dominique Beaini, Pietro Liò, Petar Veličković
+  - [[Paper]](https://arxiv.org/abs/2004.05718)
+  - [[Python Reference]](https://github.com/lukecavabarrett/pna)
   
 - **ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations (AAAI 2020)**
   - Ekagra Ranjan, Soumya Sanyal, Partha Pratim Talukdar
