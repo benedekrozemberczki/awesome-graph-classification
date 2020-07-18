@@ -67,12 +67,12 @@
   - [[Python Reference]](https://github.com/diningphil/gnn-comparison)
 
 - **StructPool: Structured Graph Pooling via Conditional Random Fields (ICLR 2020)**
-  - Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec
+  - Hao Yuan, Shuiwang Ji
   - [[Paper]](https://openreview.net/forum?id=BJxg_hVtwH)
   - [[Python Reference]](https://github.com/Nate1874/StructPool)
   
 - **Strategies for Pre-training Graph Neural Networks (ICLR 2020)**
-  - Hao Yuan, Shuiwang Ji
+  - Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1905.12265v3)
   - [[Python Reference]](https://github.com/snap-stanford/pretrain-gnns/)
   
