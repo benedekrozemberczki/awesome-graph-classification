@@ -8,7 +8,7 @@
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python Reference]](https://github.com/benedekrozemberczki/FEATHER/)
   
-- **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (KDD 2020)**
+- **Explainable Classification of Brain Networks via Contrast Subgraphs (KDD 2020)**
   - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
   - [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3403383)
   - [[Python Reference]](https://github.com/tlancian/contrast-subgraph)
