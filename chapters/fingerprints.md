@@ -9,7 +9,7 @@
   - [[Python Reference]](https://github.com/benedekrozemberczki/FEATHER/)
   
 - **Explainable Classification of Brain Networks via Contrast Subgraphs (KDD 2020)**
-  - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
+  - Tommaso Lanciano, Francesco Bonchi, and Aristides Gionis 
   - [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3403383)
   - [[Python Reference]](https://github.com/tlancian/contrast-subgraph)
 
