@@ -11,7 +11,7 @@
 - **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (KDD 2020)**
   - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
   - [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3403383)
-  - [[Python Reference]](https://github.com/google-research/google-research/tree/master/graph_embedding/slaq)
+  - [[Python Reference]](https://github.com/tlancian/contrast-subgraph)
 
 - **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (WWW 2020)**
   - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
