@@ -14,7 +14,7 @@
   - [[Python Reference]](https://github.com/tlancian/contrast-subgraph)
 
 - **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (WWW 2020)**
-  - Anton Tsitsulin, Marina Munkhoeva, Bryan Perozzi
+  - Anton Tsitsulin, Marina Munkhoeva,  and Bryan Perozzi
   - [[Paper]](https://arxiv.org/abs/2003.01282)
   - [[Python Reference]](https://github.com/google-research/google-research/tree/master/graph_embedding/slaq)
   
