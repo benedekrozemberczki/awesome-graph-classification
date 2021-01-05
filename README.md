@@ -20,3 +20,9 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 2. [Spectral and Statistical Fingerprints](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/fingerprints.md)
 3. [Deep Learning](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/deep_learning.md)  
 4. [Graph Kernels](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/kernels.md)
+
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/LICENSE)
