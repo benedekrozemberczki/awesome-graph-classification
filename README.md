@@ -1,7 +1,7 @@
 # Awesome Graph Classification
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue&style=plastic)
+![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-graph-classification.svg)](https://github.com/benedekrozemberczki/awesome-graph-classification/archive/master.zip)
 
 A collection of graph classification methods, covering embedding, deep learning, graph kernel and factorization papers with reference implementations.
