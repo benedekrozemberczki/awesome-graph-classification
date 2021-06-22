@@ -28,5 +28,3 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 **License**
 
 - [CC0 Universal](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/LICENSE)
-
---------------------------------------------------------------------------------
