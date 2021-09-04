@@ -14,7 +14,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
   <img width="400" src="atlas.png">
 </p>
 
--------------------------------------------------------------------
+-----------------------------------------------------
 
 ## Contents  
 
