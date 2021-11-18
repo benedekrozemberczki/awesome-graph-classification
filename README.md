@@ -23,7 +23,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 3. [Deep Learning](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/deep_learning.md)  
 4. [Graph Kernels](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/kernels.md)
 
---------------------------------------------------------------------------------
+-------------------------------------------------------
 
 **License**
 
